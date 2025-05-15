@@ -1,0 +1,60 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/14/2015  -  21:17:40 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V7 Series\AMT_Intel_7.0.0.1144_W7x64\Tools\System Tools\Flash Image Tool"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V7 Series\AMT_Intel_7.0.0.1144_W7x64\Tools\System Tools\Flash Image Tool"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V7 Series\AMT_Intel_7.0.0.1144_W7x64\Tools\System Tools\Flash Image Tool"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V7 Series\AMT_Intel_7.0.0.1144_W7x64\Tools\System Tools\Flash Image Tool\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 02:10:39 09/22/2010 GMT.
+Loaded default configuration.
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:4:31 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V7 Series\Flash Image Tool 7.0.4.1197"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V7 Series\Flash Image Tool 7.0.4.1197"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V7 Series\Flash Image Tool 7.0.4.1197"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V7 Series\Flash Image Tool 7.0.4.1197\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 02:10:39 09/22/2010 GMT.
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  5/27/2018  -  23:42:49 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "."
+	$WorkingDir 	= "."
+	$SourceDir 	= "."
+	$DestDir 	= "."
+	$UserVar1 	= "."
+	$UserVar2 	= "."
+	$UserVar3 	= "."
+
+Using vsccommn.bin with timestamp 02:10:39 09/22/2010 GMT.
+Loaded default configuration.
+Program terminated.
+-------------------
+

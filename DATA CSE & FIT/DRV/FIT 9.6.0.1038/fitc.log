@@ -1,0 +1,335 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  4/30/2015  -  15:34:49 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "."
+	$WorkingDir 	= "."
+	$SourceDir 	= "."
+	$DestDir 	= "."
+	$UserVar1 	= "."
+	$UserVar2 	= "."
+	$UserVar3 	= "."
+
+Using vsccommn.bin with timestamp 17:50:05 06/28/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+USER ACTION: File Dropped on UI.
+Loading file "D:\WORK\25Q16.bin".
+
+----------- Decomposing: 15:34:56 --- "D:\WORK\25Q16.bin" -----------
+
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Decomposing data...
+Descriptor Region
+Descriptor Map
+Component Section
+Region Map
+Master Access Section
+	CPU/BIOS
+	Manageability Engine (ME)
+	GbE LAN
+PCH Straps
+PCH Strap 0
+PCH Strap 1
+PCH Strap 2
+PCH Strap 3
+PCH Strap 4
+PCH Strap 5
+PCH Strap 6
+PCH Strap 7
+PCH Strap 8
+PCH Strap 9
+PCH Strap 10
+PCH Strap 11
+PCH Strap 12
+PCH Strap 13
+PCH Strap 14
+PCH Strap 15
+PCH Strap 16
+PCH Strap 17
+PCH Strap 18
+PCH Strap 19
+PCH Strap 20
+PROC Strap 0
+REGINIT Table
+OEM Section
+	Writing file ".\25Q16\Decomp\OEM Section.bin"...
+Upper Map
+VSCC Table
+	Vscc Device 1
+	Vscc Device 2
+	Vscc Device 3
+	Vscc Device 4
+	Vscc Device 5
+ME Region
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+ERROR: Error loading firmware version 9.0.3.1347.  This firmware does not support Lynxpoint-LP platform.
+
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  5/21/2015  -  11:24:31 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "."
+	$WorkingDir 	= "."
+	$SourceDir 	= "."
+	$DestDir 	= "."
+	$UserVar1 	= "."
+	$UserVar2 	= "."
+	$UserVar3 	= "."
+
+Using vsccommn.bin with timestamp 17:50:05 06/28/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+USER ACTION: File Dropped on UI.
+Loading file "C:\acer_aspire_e1-532_217\V5WE2217_main_clear_me.bin".
+
+----------- Decomposing: 11:24:35 --- "C:\acer_aspire_e1-532_217\V5WE2217_main_clear_me.bin" -----------
+
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Decomposing data...
+Descriptor Region
+Descriptor Map
+Component Section
+Region Map
+Master Access Section
+	CPU/BIOS
+	Manageability Engine (ME)
+	GbE LAN
+PCH Straps
+PCH Strap 0
+PCH Strap 1
+PCH Strap 2
+PCH Strap 3
+PCH Strap 4
+PCH Strap 5
+PCH Strap 6
+PCH Strap 7
+PCH Strap 8
+PCH Strap 9
+PCH Strap 10
+PCH Strap 11
+PCH Strap 12
+PCH Strap 13
+PCH Strap 14
+PCH Strap 15
+PCH Strap 16
+PCH Strap 17
+PCH Strap 18
+PCH Strap 19
+PCH Strap 20
+PROC Strap 0
+REGINIT Table
+OEM Section
+	Writing file ".\V5WE2217_main_clear_me\Decomp\OEM Section.bin"...
+Upper Map
+VSCC Table
+	Vscc Device 1
+	Vscc Device 2
+	Vscc Device 3
+	Vscc Device 4
+	Vscc Device 5
+	Vscc Device 6
+	Vscc Device 7
+	Vscc Device 8
+	Vscc Device 9
+	Vscc Device 10
+ME Region
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+WvProvisioningCekNvar NVAR Not found.
+SUPER_SKU_FUSE_MAP NVAR Not found.
+USER ACTION: Changing Sku Type.
+amt.hwinv.asf.oem NVAR Not found.
+Usbr.factory.defaults NVAR Not found.
+PrivacyLevel NVAR Not found.
+amt.oem.secure.variables NVAR Not found.
+Extracting ICC NVAR Data
+Initializing Profile "UserProfile" from "Standard"
+BIOS Region
+Creating map file ".\V5WE2217_main_clear_me\V5WE2217_main_clear_me.map".
+-- done --
+
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/14/2015  -  21:0:15 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9_6_LPT-LP_Haswell"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9_6_LPT-LP_Haswell"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9_6_LPT-LP_Haswell"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9_6_LPT-LP_Haswell\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:50:05 06/28/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:8:22 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:50:05 06/28/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:53:00 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:50:05 06/28/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:56:12 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.6.0.1038\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:50:05 06/28/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+
+Program terminated.
+-------------------
+

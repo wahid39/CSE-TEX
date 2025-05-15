@@ -1,0 +1,272 @@
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.50.3460
+Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.
+5/27/2018 - 12:58:24 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 17:01:56 02/07/2018 GMT
+
+Command Line: \\vmware-host\Shared Folders\Downloads\Intel CSME System Tools v11 r11\Flash Image Tool\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.50.3460
+Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.
+5/27/2018 - 1:56:46 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 17:01:56 02/07/2018 GMT
+
+Command Line: \\vmware-host\Shared Folders\Downloads\Flash Image Tool 11.8.50.3460\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.50.3460
+Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.
+5/27/2018 - 11:57:24 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 17:01:56 02/07/2018 GMT
+
+Command Line: \\vmware-host\Shared Folders\Downloads\Flash Image Tool 11.8.50.3460\11.8.50.3460\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.50.3460
+Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.
+4/27/2024 - 10:14:56 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 17:01:56 02/07/2018 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\SKCLAPPY.IN\Desktop\LBE PRO\New folder (2)\W25Q128BV@WSON8_20240427_220948_Fixed.Bin
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - LP No Emulation".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\W25Q128BV@WSON8_20240427_220948_Fixed\W25Q128BV@WSON8_20240427_220948_Fixed.map
+Saving XML ...
+
+XML file written to D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+Loading D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+Executing pre-build actions
+ICC Record Profile Index: 0 - Name: Profile 0 - Type: Standard - data (40 bytes) 
+10 27 de 26 08 32 cf 00 10 27 10 27 00 00 00 00 
+18 00 01 00 02 00 00 00 11 21 01 ed 03 00 03 00 
+4e 40 01 ed 00 00 00 00 
+
+
+Building objects
+Processing attribute: BuildSettings
+Processing attribute: FlashLayout
+Committing CSE configuration.
+Building image with Chipset Initialization version: 130.52
+Processing attribute: FlashSettings
+Processing attribute: IntelMeKernel
+Processing attribute: IntelAmt
+Processing attribute: PlatformProtection
+Processing attribute: IntegratedTouch
+Processing attribute: Icc
+Processing attribute: NetworkingConnectivity
+Processing attribute: FlexIo
+Processing attribute: InternalPchBuses
+Processing attribute: Gpio
+Processing attribute: Power
+Processing attribute: IntegratedSensorHub
+Processing attribute: Debug
+Processing attribute: CpuStraps
+Executing post-build actions
+
+Full Flash image written to D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\outimage.bin
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\outimage.map
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.50.3460
+Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.
+7/15/2024 - 2:03:47 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 17:01:56 02/07/2018 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\SKCLAPPY.IN\Desktop\SURAJ LOCK\GD25Q128B@WSON8_20240715_135424_Fixed.Bin
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - LP No Emulation".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\GD25Q128B@WSON8_20240715_135424_Fixed\GD25Q128B@WSON8_20240715_135424_Fixed.map
+Saving XML ...
+
+XML file written to D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+Loading D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+Executing pre-build actions
+ICC Record Profile Index: 0 - Name: Profile 0 - Type: Standard - data (56 bytes) 
+10 27 de 26 08 32 cf 00 10 27 10 27 00 00 00 00 
+28 00 01 00 04 00 00 00 11 21 01 ed 03 00 03 00 
+4e 40 01 ed 00 00 00 00 06 21 01 ed 00 00 00 00 
+2e 10 01 dc 00 00 00 00 
+
+
+Building objects
+Processing attribute: BuildSettings
+Processing attribute: FlashLayout
+Committing CSE configuration.
+Building image with Chipset Initialization version: 176.11
+Processing attribute: FlashSettings
+Processing attribute: IntelMeKernel
+Processing attribute: IntelAmt
+Processing attribute: PlatformProtection
+Processing attribute: IntegratedTouch
+Processing attribute: Icc
+Processing attribute: NetworkingConnectivity
+Processing attribute: FlexIo
+Processing attribute: InternalPchBuses
+Processing attribute: Gpio
+Processing attribute: Power
+Processing attribute: IntegratedSensorHub
+Processing attribute: Debug
+Processing attribute: CpuStraps
+Executing post-build actions
+
+Full Flash image written to D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\outimage.bin
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\outimage.map
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.50.3460
+Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.
+7/15/2024 - 2:55:42 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 17:01:56 02/07/2018 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\SKCLAPPY.IN\Desktop\SURAJ LOCK\GD25Q128B@WSON8_20240715_135424_Fixed.Bin
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - LP No Emulation".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\GD25Q128B@WSON8_20240715_135424_Fixed\GD25Q128B@WSON8_20240715_135424_Fixed.map
+Saving XML ...
+
+XML file written to D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+Loading D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+Executing pre-build actions
+Warning: Did not update "IshSigningPolicy" because the ME FW is from a previously booted system.
+Warning: Did not update "OdmIDIntelServices" because the ME FW is from a previously booted system.
+Warning: Did not update "SysIntIdIntelServices" because the ME FW is from a previously booted system.
+Warning: Did not update "ReservedIdIntelServices" because the ME FW is from a previously booted system.
+Warning: Did not update "NvarPostManUnLckd" because the ME FW is from a previously booted system.
+Warning: Did not update "PkiDomainSuffix" because the ME FW is from a previously booted system.
+Warning: Did not update "PkiDomainSuffix" because the ME FW is from a previously booted system.
+Warning: Did not update "EhbcEnable" because the ME FW is from a previously booted system.
+Warning: Did not update "RedirectionPrivSecLevel" because the ME FW is from a previously booted system.
+Warning: Did not update "Lspcon4kdisp" because the ME FW is from a previously booted system.
+Warning: Did not update "PttRtcClearDetect" because the ME FW is from a previously booted system.
+ICC Record Profile Index: 0 - Name: Profile 0 - Type: Standard - data (56 bytes) 
+10 27 de 26 08 32 cf 00 10 27 10 27 00 00 00 00 
+28 00 01 00 04 00 00 00 11 21 01 ed 03 00 03 00 
+4e 40 01 ed 00 00 00 00 06 21 01 ed 00 00 00 00 
+2e 10 01 dc 00 00 00 00 
+
+
+Warning: Did not update "NfcSmbusAddress" because the ME FW is from a previously booted system.
+Warning: Did not update "ChipsetInitBinary" because the ME FW is from a previously booted system.
+Building objects
+Processing attribute: BuildSettings
+Processing attribute: FlashLayout
+Committing CSE configuration.
+Building image with Chipset Initialization version: 130.52
+Processing attribute: FlashSettings
+Processing attribute: IntelMeKernel
+Processing attribute: IntelAmt
+Processing attribute: PlatformProtection
+Processing attribute: IntegratedTouch
+Processing attribute: Icc
+Processing attribute: NetworkingConnectivity
+Processing attribute: FlexIo
+Processing attribute: InternalPchBuses
+Processing attribute: Gpio
+Processing attribute: Power
+Processing attribute: IntegratedSensorHub
+Processing attribute: Debug
+Processing attribute: CpuStraps
+Executing post-build actions
+
+Full Flash image written to D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\outimage.bin
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\outimage.map
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.50.3460
+Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.
+7/15/2024 - 3:02:31 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 17:01:56 02/07/2018 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\fit.exe 
+
+Log file written to fit.log
+
+Loading D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\Untitled.xml
+Executing pre-build actions
+ICC Record Profile Index: 0 - Name: Profile 0 - Type: Standard - data (56 bytes) 
+10 27 de 26 08 32 cf 00 10 27 10 27 00 00 00 00 
+28 00 01 00 04 00 00 00 11 21 01 ed 03 00 03 00 
+4e 40 01 ed 00 00 00 00 06 21 01 ed 00 00 00 00 
+2e 10 01 dc 00 00 00 00 
+
+
+Building objects
+Processing attribute: BuildSettings
+Processing attribute: FlashLayout
+Committing CSE configuration.
+Building image with Chipset Initialization version: 130.52
+Processing attribute: FlashSettings
+Processing attribute: IntelMeKernel
+Processing attribute: IntelAmt
+Processing attribute: PlatformProtection
+Processing attribute: IntegratedTouch
+Processing attribute: Icc
+Processing attribute: NetworkingConnectivity
+Processing attribute: FlexIo
+Processing attribute: InternalPchBuses
+Processing attribute: Gpio
+Processing attribute: Power
+Processing attribute: IntegratedSensorHub
+Processing attribute: Debug
+Processing attribute: CpuStraps
+Executing post-build actions
+
+Full Flash image written to D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\outimage.bin
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.50.3460\outimage.map

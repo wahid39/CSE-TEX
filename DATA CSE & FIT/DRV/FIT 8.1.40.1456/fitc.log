@@ -1,0 +1,63 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/14/2015  -  21:15:32 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\System Tools_Flash Image_8.1.40.1456\System Tools\Flash Image Tool"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\System Tools_Flash Image_8.1.40.1456\System Tools\Flash Image Tool"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\System Tools_Flash Image_8.1.40.1456\System Tools\Flash Image Tool"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\System Tools_Flash Image_8.1.40.1456\System Tools\Flash Image Tool\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 03:27:24 06/19/2012 GMT.
+USER ACTION: Changing Sku Type.
+Loaded default configuration.
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:5:49 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\Flash Image Tool 8.1.40.1456"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\Flash Image Tool 8.1.40.1456"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\Flash Image Tool 8.1.40.1456"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\Flash Image Tool 8.1.40.1456\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 03:27:24 06/19/2012 GMT.
+USER ACTION: Changing Sku Type.
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:43:35 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\Flash Image Tool 8.1.40.1456"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\Flash Image Tool 8.1.40.1456"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\Flash Image Tool 8.1.40.1456"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V8 Series\Flash Image Tool 8.1.40.1456\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 03:27:24 06/19/2012 GMT.
+USER ACTION: Changing Sku Type.
+Loaded default configuration.
+Program terminated.
+-------------------
+

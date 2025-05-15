@@ -1,0 +1,105 @@
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.79.3722
+Copyright (c) 2013 - 2020, Intel Corporation. All rights reserved.
+8/20/2022 - 10:35:26 am
+===============================================================================
+
+Using vsccommn.bin with timestamp 19:06:41 03/20/2020 GMT
+
+Command Line: C:\Users\RANA ABBAS ALI\Desktop\Flash Image Tool\toll me region\tool\CSME System Tools v11 r39\CSME System Tools v11 r39\Flash Image Tool\WIN32\fit.exe 
+
+Log file written to fit.log
+
+Loading defaults.
+Loading C:\Users\RANA ABBAS ALI\Downloads\123.BIN
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - LP No Emulation".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Writing map file C:\Users\RANA ABBAS ALI\Desktop\Flash Image Tool\toll me region\tool\CSME System Tools v11 r39\CSME System Tools v11 r39\Flash Image Tool\WIN32\123\123.map
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.79.3722
+Copyright (c) 2013 - 2020, Intel Corporation. All rights reserved.
+11/12/2022 - 7:39:36 
+===============================================================================
+
+Using vsccommn.bin with timestamp 19:06:41 03/20/2020 GMT
+
+Command Line: F:\LBE Versions\Flash Image Tool Abbas Ali\Flash Image Tool\toll me region\CSME System Tools v11 r39\CSME System Tools v11 r39\Flash Image Tool\WIN32\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.79.3722
+Copyright (c) 2013 - 2020, Intel Corporation. All rights reserved.
+11/12/2022 - 8:35:55 
+===============================================================================
+
+Using vsccommn.bin with timestamp 19:06:41 03/20/2020 GMT
+
+Command Line: F:\LBE Versions\LBE++.3.0.0.0\LBE++\MME\WIN32 15\WIN32\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.79.3722
+Copyright (c) 2013 - 2020, Intel Corporation. All rights reserved.
+7/11/2024 - 7:08:46 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 19:06:41 03/20/2020 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.8.79.3722\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\SKCLAPPY.IN\Desktop\SURAJ LOCK\W25Q128BV@WSON8_20240711_173708.BIN
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - Premium U".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.79.3722\W25Q128BV@WSON8_20240711_173708\W25Q128BV@WSON8_20240711_173708.map
+Saving XML ...
+
+XML file written to D:\LBEPro\REPO\DRV\FIT 11.8.79.3722\Untitled.xml
+Loading D:\LBEPro\REPO\DRV\FIT 11.8.79.3722\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.8.79.3722\Untitled.xml
+Executing pre-build actions
+ICC Record Profile Index: 0 - Name: Profile 0 - Type: Standard - data (40 bytes) 
+10 27 de 26 08 32 cf 00 10 27 10 27 00 00 00 00 
+18 00 01 00 02 00 00 00 11 21 01 ed 03 00 03 00 
+4e 40 01 ed 00 00 00 00 
+
+
+Building objects
+Processing attribute: BuildSettings
+Processing attribute: FlashLayout
+Committing CSE configuration.
+Building image with Chipset Initialization version: 130.52
+Processing attribute: FlashSettings
+Processing attribute: IntelMeKernel
+Processing attribute: IntelAmt
+Processing attribute: PlatformProtection
+Processing attribute: IntegratedTouch
+Processing attribute: Icc
+Processing attribute: NetworkingConnectivity
+Processing attribute: FlexIo
+Processing attribute: InternalPchBuses
+Processing attribute: Gpio
+Processing attribute: Power
+Processing attribute: IntegratedSensorHub
+Processing attribute: Debug
+Processing attribute: CpuStraps
+Executing post-build actions
+
+Full Flash image written to D:\LBEPro\REPO\DRV\FIT 11.8.79.3722\outimage.bin
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.79.3722\outimage.map

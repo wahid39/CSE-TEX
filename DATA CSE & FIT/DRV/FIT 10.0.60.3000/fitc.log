@@ -1,0 +1,25 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  11/12/2022  -  20:35:18 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "F:\LBE Versions\LBE++.3.0.0.0\LBE++\MME\WIN32 14\WIN32"
+	$WorkingDir 	= "F:\LBE Versions\LBE++.3.0.0.0\LBE++\MME\WIN32 14\WIN32"
+	$SourceDir 	= "F:\LBE Versions\LBE++.3.0.0.0\LBE++\MME\WIN32 14\WIN32"
+	$DestDir 	= "F:\LBE Versions\LBE++.3.0.0.0\LBE++\MME\WIN32 14\WIN32\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:22:47 08/18/2014 GMT.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+

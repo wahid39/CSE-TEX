@@ -1,0 +1,22 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/14/2015  -  21:21:42
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V6 Series\Flash Image Tool 6.0.40.1212"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V6 Series\Flash Image Tool 6.0.40.1212"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V6 Series\Flash Image Tool 6.0.40.1212"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V6 Series\Flash Image Tool 6.0.40.1212\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 00:29:16 07/16/2009 GMT.
+Loaded default configuration.
+End of xLoadXmlConfig
+Program terminated.
+-------------------
+

@@ -1,0 +1,59 @@
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.6.20.1221
+Copyright (c) 2013 - 2017, Intel Corporation. All rights reserved.
+5/26/2024 - 2:27:33 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 08:52:37 01/13/2017 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.6.20.1221\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\SKCLAPPY.IN\Desktop\LBE PRO\New folder (2)\New folder (2)\W25Q128BV@WSON8_20240526_134814_Fixed.Bin
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - Premium U - KBL".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Warning: Could not set "Redirection Privacy / Security Level" to: 0x0000000000000000000000000000000000000098A05EA921F779F6D5D4C389E903D11A83D4209CE5D873F72F9BF830C2684DDF2501, reverting to previous/default value: Default
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.6.20.1221\W25Q128BV@WSON8_20240526_134814_Fixed\W25Q128BV@WSON8_20240526_134814_Fixed.map
+Saving XML ...
+
+XML file written to D:\LBEPro\REPO\DRV\FIT 11.6.20.1221\Untitled.xml
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.6.20.1221
+Copyright (c) 2013 - 2017, Intel Corporation. All rights reserved.
+5/26/2024 - 2:36:28 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 08:52:37 01/13/2017 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.6.20.1221\fit.exe 
+
+Log file written to fit.log
+
+Loading D:\LBEPro\REPO\DRV\FIT 11.6.20.1221\vsccommn.bin
+
+Error 16: Not a valid file type. 
+Error 10: Failed to open with processed commands. 
+Unable to open file: D:\LBEPro\REPO\DRV\FIT 11.6.20.1221\vsccommn.bin. Reverting to default configuration.
+Loading defaults.
+Loading D:\LBEPro\REPO\DRV\FIT 11.6.20.1221\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.6.20.1221\Untitled.xml
+Executing pre-build actions
+ICC Record Profile Index: 0 - Name: Profile 0 - Type: Standard - data (56 bytes) 
+10 27 de 26 08 32 cf 00 10 27 10 27 00 00 00 00 
+28 00 01 00 04 00 00 00 11 21 01 ed 03 00 03 00 
+4e 40 01 ed 00 00 00 00 06 21 01 ed 00 00 00 00 
+2e 10 01 dc 00 00 00 00 
+
+
+Error 52: [FitActions] IDLM Binary is invalid or corrupt Failed to remove IDLM binary.
+Error 5: [CsmeBinaryGen] Error executing pre-build actions. 
+Error 15: Failed to build. 
+Failed to build!

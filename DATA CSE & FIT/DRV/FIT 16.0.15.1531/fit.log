@@ -1,0 +1,13 @@
+INFO     : 
+================================================================
+Intel (R) Modular Flash Image Tool. Version: 16.0.15.1531
+Copyright (c) 2021, Intel Corporation. All rights reserved.
+================================================================
+Command Line: D:\LBEPro\REPO\DRV\FIT 16.0.15.1531\CSME System Tools v16.0 r1.exe 
+
+INFO     : Start decompose 'C:/Users/SKCLAPPY.IN/Desktop/LBE PRO/New folder (2)/HP Pavilion Laptop 15-eh1102AU (DAG7HAMB8F0 REV.F) BIOS/BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++.Bin' image.
+INFO     : MFIT version used to build the image: 16.0.15.1741
+INFO     : Generate layout dictionary <xpath, container wrapper>
+INFO     : Layout dictionary generated successfully
+ERROR    : Decompose 'C:/Users/SKCLAPPY.IN/Desktop/LBE PRO/New folder (2)/HP Pavilion Laptop 15-eh1102AU (DAG7HAMB8F0 REV.F) BIOS/BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++.Bin' image failed. 
+	   Details: Unknown container path: IfwiRoot/PaddingRegion

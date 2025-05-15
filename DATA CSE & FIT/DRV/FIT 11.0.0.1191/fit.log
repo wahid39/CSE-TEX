@@ -1,0 +1,67 @@
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.0.0.1191
+Copyright (c) 2013 - 2015, Intel Corporation. All rights reserved.
+10/18/2022 - 9:52:19 
+===============================================================================
+
+Using vsccommn.bin with timestamp 22:21:01 02/26/2015 GMT
+
+Command Line: F:\LBEVER~1\LBE__3~1.0\LBE__~1\LBE__~1\LBE__~1\MME\INTELM~1.119\INTELM~1.X)\FLASHI~1\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.0.0.1191
+Copyright (c) 2013 - 2015, Intel Corporation. All rights reserved.
+10/18/2022 - 9:53:38 
+===============================================================================
+
+Using vsccommn.bin with timestamp 22:21:01 02/26/2015 GMT
+
+Command Line: F:\LBE Versions\LBE++.3.0.0.0\LBE++\LBE++\LBE++\MME\FITool v11.0.0.1191 r12 (For 100-series systems which come with ME firmware v11.0.x)(Flash Image Tool. Version 11.0.0.1191)\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.0.0.1191
+Copyright (c) 2013 - 2015, Intel Corporation. All rights reserved.
+10/18/2022 - 9:53:39 
+===============================================================================
+
+Using vsccommn.bin with timestamp 22:21:01 02/26/2015 GMT
+
+Command Line: F:\LBE Versions\LBE++.3.0.0.0\LBE++\LBE++\LBE++\MME\FITool v11.0.0.1191 r12 (For 100-series systems which come with ME firmware v11.0.x)(Flash Image Tool. Version 11.0.0.1191)\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.0.0.1191
+Copyright (c) 2013 - 2015, Intel Corporation. All rights reserved.
+8/01/2024 - 9:48:26 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 22:21:01 02/26/2015 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.0.0.1191\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\SKCLAPPY.IN\Desktop\SURAJ LOCK\New folder\W25Q128BV@WSON8_20240801_214013_Fixed.Bin
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - Premium U".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.0.0.1191\W25Q128BV@WSON8_20240801_214013_Fixed\W25Q128BV@WSON8_20240801_214013_Fixed.map
+Saving XML ...
+
+XML file written to D:\LBEPro\REPO\DRV\FIT 11.0.0.1191\Untitled.xml
+Loading D:\LBEPro\REPO\DRV\FIT 11.0.0.1191\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.0.0.1191\Untitled.xml
+Integrated Clock Controller Settings not supported by provided ME image.

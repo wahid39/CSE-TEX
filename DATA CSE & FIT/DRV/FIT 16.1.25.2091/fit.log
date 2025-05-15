@@ -1,0 +1,896 @@
+INFO     : 
+================================================================
+Intel (R) Modular Flash Image Tool. Version: 16.1.25.2091
+Copyright (c) 2022, Intel Corporation. All rights reserved.
+================================================================
+Command Line: D:\LBEPro\REPO\DRV\FIT 16.1.25.2091\mfit.exe 
+
+INFO     : Start decompose 'C:/Users/SKCLAPPY.IN/Desktop/LBE PRO/New folder (2)/HP Pavilion Laptop 15-eh1102AU (DAG7HAMB8F0 REV.F) BIOS/BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++.Bin' image.
+INFO     : MFIT version used to build the image: 16.0.15.1741
+INFO     : Generate layout dictionary <xpath, container wrapper>
+INFO     : Layout dictionary generated successfully
+INFO     : Revision number of the currently loaded Intel(R) ME binary binary: 16.1.25.1885
+INFO     : Executing SigningContainer decompose
+INFO     : SigningContainer decompose completed successfully
+INFO     : Executing HarnessGlobalData decompose
+INFO     : HarnessGlobalData decompose completed successfully
+INFO     : Executing EcRegionPointer decompose
+INFO     : EcRegionPointer decompose completed successfully
+INFO     : Executing FLASH_VALID_SIGNATURE decompose
+INFO     : FLASH_VALID_SIGNATURE decompose completed successfully
+INFO     : Executing FLMAP0 decompose
+INFO     : FLMAP0 decompose completed successfully
+INFO     : Executing FLMAP1 decompose
+INFO     : FLMAP1 decompose completed successfully
+INFO     : Executing FLMAP2 decompose
+INFO     : FLMAP2 decompose completed successfully
+INFO     : Executing FLMAP3 decompose
+INFO     : FLMAP3 decompose completed successfully
+INFO     : Executing FLMAP4 decompose
+INFO     : FLMAP4 decompose completed successfully
+INFO     : Executing FDBAR decompose
+INFO     : FDBAR decompose completed successfully
+INFO     : Executing FLCOMP decompose
+INFO     : FLCOMP decompose completed successfully
+INFO     : Executing FLIL decompose
+INFO     : FLIL decompose completed successfully
+INFO     : Executing FCBA_RESERVED decompose
+INFO     : FCBA_RESERVED decompose completed successfully
+INFO     : Executing FCBA decompose
+INFO     : FCBA decompose completed successfully
+INFO     : Executing Regions decompose
+INFO     : Regions decompose completed successfully
+INFO     : Executing MasterAccessPermissions decompose
+INFO     : MasterAccessPermissions decompose completed successfully
+INFO     : Executing PchStraps decompose
+INFO     : PchStraps decompose completed successfully
+INFO     : Executing HashDescriptorManifestExt decompose
+INFO     : HashDescriptorManifestExt decompose completed successfully
+INFO     : Executing FdvManifest decompose
+INFO     : FdvManifest decompose completed successfully
+INFO     : Executing PmcStraps decompose
+INFO     : PmcStraps decompose completed successfully
+INFO     : Executing CpuStraps decompose
+INFO     : CpuStraps decompose completed successfully
+INFO     : Executing PmcAndCpu decompose
+INFO     : PmcAndCpu decompose completed successfully
+INFO     : Executing DbCStraps decompose
+INFO     : DbCStraps decompose completed successfully
+INFO     : Executing MipDesc decompose
+INFO     : MipDesc decompose completed successfully
+INFO     : Executing VsccTable decompose
+INFO     : VsccTable decompose completed successfully
+INFO     : Executing OEM decompose
+INFO     : OEM decompose completed successfully
+INFO     : Executing DescriptorRegion decompose
+INFO     : DescriptorRegion decompose completed successfully
+INFO     : Executing EcRegion decompose
+INFO     : EcRegion decompose completed successfully
+INFO     : Executing GbeRegion decompose
+INFO     : GbeRegion decompose completed successfully
+INFO     : Executing RomBypassVector decompose
+INFO     : RomBypassVector decompose completed successfully
+INFO     : Executing CSE_POINTERS decompose
+INFO     : CSE_POINTERS decompose completed successfully
+INFO     : Executing RomBypassVectorCopy decompose
+INFO     : RomBypassVectorCopy decompose completed successfully
+INFO     : Executing CSE_POINTERS_COPY decompose
+INFO     : CSE_POINTERS_COPY decompose completed successfully
+INFO     : Executing RomBypass decompose
+INFO     : RomBypass decompose completed successfully
+INFO     : Executing RBE decompose
+INFO     : RBE decompose completed successfully
+INFO     : Executing PMC decompose
+INFO     : PMC decompose completed successfully
+INFO     : Executing MFTP decompose
+INFO     : MFTP decompose completed successfully
+INFO     : Executing IDLM decompose
+INFO     : IDLM decompose completed successfully
+INFO     : Executing OEM_KM decompose
+INFO     : OEM_KM decompose completed successfully
+INFO     : Executing IOM decompose
+INFO     : IOM decompose completed successfully
+INFO     : Executing NPHY decompose
+INFO     : NPHY decompose completed successfully
+INFO     : Executing TBT decompose
+INFO     : TBT decompose completed successfully
+INFO     : Executing PCHC decompose
+INFO     : PCHC decompose completed successfully
+INFO     : Executing BPDT1 decompose
+INFO     : BPDT1 decompose completed successfully
+INFO     : Executing AutoNvars decompose
+INFO     : AutoNvars decompose completed successfully
+INFO     : Executing HmrfpoNvar decompose
+INFO     : HmrfpoNvar decompose completed successfully
+INFO     : Executing Icc decompose
+INFO     : Icc decompose completed successfully
+INFO     : Executing ConfigRulesNvar decompose
+INFO     : ConfigRulesNvar decompose completed successfully
+INFO     : Executing PavpHdcpNvar decompose
+INFO     : PavpHdcpNvar decompose completed successfully
+INFO     : Executing ChipsetInit decompose
+INFO     : ChipsetInit decompose completed successfully
+INFO     : Executing EomNvar decompose
+INFO     : EomNvar decompose completed successfully
+INFO     : Executing TbtConfigDataNvar decompose
+INFO     : TbtConfigDataNvar decompose completed successfully
+INFO     : Executing CameraGpioNvar decompose
+INFO     : CameraGpioNvar decompose completed successfully
+INFO     : Executing FITC decompose
+INFO     : FITC decompose completed successfully
+INFO     : Executing PSVN decompose
+INFO     : PSVN decompose completed successfully
+INFO     : Executing IMDP decompose
+INFO     : IMDP decompose completed successfully
+INFO     : Executing HVMP decompose
+INFO     : HVMP decompose completed successfully
+INFO     : Executing IVBP decompose
+INFO     : IVBP decompose completed successfully
+INFO     : Executing MFS decompose
+INFO     : MFS decompose completed successfully
+INFO     : Executing UTOK decompose
+INFO     : UTOK decompose completed successfully
+INFO     : Executing FLOG decompose
+INFO     : FLOG decompose completed successfully
+INFO     : Executing ELOG decompose
+INFO     : ELOG decompose completed successfully
+INFO     : Executing EFS decompose
+INFO     : EFS decompose completed successfully
+INFO     : Executing CDMD decompose
+INFO     : CDMD decompose completed successfully
+INFO     : Executing UEP decompose
+WARNING  : Failed to read UEP meta data- 'FpfSvnEnabled' is missing from data bucket
+INFO     : UEP decompose completed successfully
+INFO     : Executing DATA_PARTITION decompose
+INFO     : DATA_PARTITION decompose completed successfully
+INFO     : Executing RBECopy decompose
+INFO     : RBECopy decompose completed successfully
+INFO     : Executing PMCCopy decompose
+INFO     : PMCCopy decompose completed successfully
+INFO     : Executing FTPR decompose
+INFO     : FTPR decompose completed successfully
+INFO     : Executing IDLMCopy decompose
+INFO     : IDLMCopy decompose completed successfully
+INFO     : Executing OEM_KM_Copy decompose
+INFO     : OEM_KM_Copy decompose completed successfully
+INFO     : Executing IOMCopy decompose
+INFO     : IOMCopy decompose completed successfully
+INFO     : Executing NPHYCopy decompose
+INFO     : NPHYCopy decompose completed successfully
+INFO     : Executing TBTCopy decompose
+INFO     : TBTCopy decompose completed successfully
+INFO     : Executing PCHCCopy decompose
+INFO     : PCHCCopy decompose completed successfully
+INFO     : Executing NFTP decompose
+INFO     : Couldn't find field indicating if image built with NFTP resize for FTPR.
+INFO     : NFTP decompose completed successfully
+INFO     : Executing ISH decompose
+INFO     : ISH decompose completed successfully
+INFO     : Executing IUNIT decompose
+INFO     : IUNIT decompose completed successfully
+INFO     : Executing StandAloneBPDT2 decompose
+INFO     : StandAloneBPDT2 decompose completed successfully
+INFO     : Executing CseRegion decompose
+WARNING  : Skipping ROMB. Missing...
+INFO     : add_sub_partition RBEP. offset: 0x1000. length: 0x20000
+INFO     : add_sub_partition MFTP. offset: 0x21000. length: 0xBA000
+INFO     : add_sub_partition FITC. offset: 0xDB000. length: 0x8000
+INFO     : add_sub_partition PSVN. offset: 0xE3000. length: 0x200
+INFO     : add_sub_partition IMDP. offset: 0xE3200. length: 0x40
+INFO     : add_sub_partition HVMP. offset: 0xE3240. length: 0xC
+INFO     : add_sub_partition IVBP. offset: 0xE4000. length: 0x4000
+INFO     : add_sub_partition MFS. offset: 0xE8000. length: 0x40000
+INFO     : add_sub_partition UTOK. offset: 0x128000. length: 0x2000
+INFO     : add_sub_partition FLOG. offset: 0x12A000. length: 0x2000
+INFO     : add_sub_partition ELOG. offset: 0x12C000. length: 0x1000
+INFO     : add_sub_partition EFS. offset: 0x12D000. length: 0x10000
+INFO     : add_sub_partition UEP. offset: 0x13D000. length: 0x2000
+INFO     : add_sub_partition FTPR. offset: 0x13F000. length: 0xFC000
+INFO     : add_sub_partition NFTP. offset: 0x23B000. length: 0x4F000
+INFO     : CseRegion decompose completed successfully
+INFO     : Executing PdrRegion decompose
+INFO     : PdrRegion decompose completed successfully
+INFO     : Executing PaddingRegion decompose
+INFO     : PaddingRegion decompose completed successfully
+INFO     : Executing BiosRegion decompose
+INFO     : BiosRegion decompose completed successfully
+INFO     : Executing IfwiRoot decompose
+INFO     : IfwiRoot decompose completed successfully
+INFO     : Saving image map file: BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++\Decompose\BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++.map
+INFO     : Saving image info file: BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++\Decompose\BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++.txt
+INFO     : Decompose 'C:/Users/SKCLAPPY.IN/Desktop/LBE PRO/New folder (2)/HP Pavilion Laptop 15-eh1102AU (DAG7HAMB8F0 REV.F) BIOS/BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++.Bin' image completed successfully
+INFO     : 'D:\LBEPro\REPO\DRV\FIT 16.1.25.2091\Untitled.xml' generated successfully
+INFO     : Start decompose 'D:\LBEPro\REPO\DRV\FIT 16.1.25.2091\BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++\Decompose\ME Sub Partition.bin' image.
+INFO     : Start decompose 'D:\LBEPro\REPO\DRV\FIT 16.1.25.2091\BACKED SKCLAPPY.IN_Enreollment_Cleared_ME++\Decompose\ME Sub Partition.bin' image.
+INFO     : Revision number of the currently loaded Intel(R) ME binary binary: 16.1.25.1885
+INFO     : 'D:/LBEPro/REPO/DRV/FIT 16.1.25.2091/Untitled.xml' loaded successfully
+INFO     : Build 'D:\LBEPro\REPO\DRV\FIT 16.1.25.2091\image.bin' start...
+INFO     : Executing SigningContainer build
+INFO     : SigningContainer build completed successfully
+INFO     : Executing HarnessGlobalData build
+INFO     : HarnessGlobalData build completed successfully
+INFO     : Executing EcRegionPointer build
+INFO     : EcRegionPointer build completed successfully
+INFO     : Executing FLASH_VALID_SIGNATURE build
+INFO     : FLASH_VALID_SIGNATURE build completed successfully
+INFO     : Executing FLMAP0 build
+INFO     : FLMAP0 build completed successfully
+INFO     : Executing FLMAP1 build
+INFO     : FLMAP1 build completed successfully
+INFO     : Executing FLMAP2 build
+INFO     : FLMAP2 build completed successfully
+INFO     : Executing FLMAP3 build
+INFO     : FLMAP3 build completed successfully
+INFO     : Executing FLMAP4 build
+INFO     : FLMAP4 build completed successfully
+INFO     : Executing FDBAR build
+INFO     : FDBAR build completed successfully
+INFO     : Executing FLCOMP build
+INFO     : FLCOMP build completed successfully
+INFO     : Executing FLIL build
+INFO     : FLIL build completed successfully
+INFO     : Executing FCBA_RESERVED build
+INFO     : FCBA_RESERVED build completed successfully
+INFO     : Executing FCBA build
+INFO     : FCBA build completed successfully
+INFO     : Executing Regions build
+INFO     : Regions build completed successfully
+INFO     : Executing MasterAccessPermissions build
+INFO     : MasterAccessPermissions build completed successfully
+INFO     : Executing PchStraps build
+INFO     : PchStraps build completed successfully
+INFO     : Executing HashDescriptorManifestExt build
+INFO     : HashDescriptorManifestExt build completed successfully
+INFO     : Executing FdvManifest build
+INFO     : FdvManifest build completed successfully
+INFO     : Executing PmcStraps build
+INFO     : PmcStraps build completed successfully
+INFO     : Executing CpuStraps build
+INFO     : CpuStraps build completed successfully
+INFO     : Executing PmcAndCpu build
+INFO     : PmcAndCpu build completed successfully
+INFO     : Executing DbCStraps build
+INFO     : DbCStraps build completed successfully
+INFO     : Executing MipDesc build
+INFO     : MipDesc build completed successfully
+INFO     : Executing VsccTable build
+INFO     : VsccTable build completed successfully
+INFO     : Executing OEM build
+INFO     : OEM build completed successfully
+INFO     : Executing DescriptorRegion build
+INFO     : DescriptorRegion build completed successfully
+INFO     : Executing EcRegion build
+INFO     : EcRegion build completed successfully
+INFO     : Executing GbeRegion build
+INFO     : GbeRegion build completed successfully
+INFO     : Executing RomBypassVector build
+INFO     : RomBypassVector build completed successfully
+INFO     : Executing CSE_POINTERS build
+INFO     : CSE_POINTERS build completed successfully
+INFO     : Executing RomBypassVectorCopy build
+INFO     : RomBypassVectorCopy build completed successfully
+INFO     : Executing CSE_POINTERS_COPY build
+INFO     : CSE_POINTERS_COPY build completed successfully
+INFO     : Executing RomBypass build
+INFO     : RomBypass build completed successfully
+INFO     : Executing RBE build
+INFO     : RBE build completed successfully
+INFO     : Executing PMC build
+WARNING  : PMCP was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded PMCP binary: 160.1.00.1023
+INFO     : PMC build completed successfully
+INFO     : Executing MFTP build
+INFO     : MFTP build completed successfully
+INFO     : Executing IDLM build
+INFO     : IDLM build completed successfully
+INFO     : Executing OEM_KM build
+WARNING  : OEMP was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded OEMP binary: 0.0.00.0
+INFO     : OEM_KM build completed successfully
+INFO     : Executing IOM build
+WARNING  : IOMP was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded IOMP binary: 34.12.00.0
+INFO     : IOM build completed successfully
+INFO     : Executing NPHY build
+WARNING  : NPHY was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded NPHY binary: 14.527.505.8209
+INFO     : NPHY build completed successfully
+INFO     : Executing TBT build
+INFO     : TBT build completed successfully
+INFO     : Executing PCHC build
+WARNING  : PCHC was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded PCHC binary: 16.0.00.1012
+INFO     : PCHC build completed successfully
+INFO     : Executing BPDT1 build
+INFO     : BPDT1 build completed successfully
+INFO     : Executing AutoNvars build
+WARNING  : Failed to write NVAR ProcEmulation. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR HideMEBxFwUpdCtrl. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MeClinkEnable. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MEWlanPowerWell. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MELanPowerWell. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR CryptoHwSupport. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR EnableTDS. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR OemTag. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR PSRSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MctpDevicePortEc. File mctp/device_ports is read-only.
+WARNING  : Failed to write NVAR MctpDevicePortSio. File mctp/device_ports is read-only.
+WARNING  : Failed to write NVAR MctpDevicePortIsh. File mctp/device_ports is read-only.
+WARNING  : Failed to write NVAR MctpDevicePortBmc. File mctp/device_ports is read-only.
+WARNING  : Failed to write NVAR DbgOverridePreProdSi. File bup/si_features is read-only.
+WARNING  : Failed to write NVAR DbgOverrideProdSi. File bup/si_features is read-only.
+WARNING  : Failed to write NVAR BiosRedAssistance. File secureboot/brm_cfg is read-only.
+WARNING  : Failed to write NVAR IntelTrcHubBinary. File bup/ct is read-only.
+WARNING  : Failed to write NVAR RomTraceFiltering. File hotham/filter_cfg is read-only.
+WARNING  : Failed to write NVAR TcssAuthenticateEn. File tcss/tcss_ctrl is read-only.
+WARNING  : Failed to write NVAR IomOemConfigDataFile. File tcss/iommg_oem is read-only.
+WARNING  : Failed to write NVAR PrivacyFeatureControlDisabled. File iunit/iunit_privacy_mode is read-only.
+WARNING  : Failed to write NVAR SecureTouch. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR FWSecureMode. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR SecureTouchCameraMask. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR RomTraceEnable. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR PortConfigurationFor8LSBLanes. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR PortConfigurationFor8MSBLanes. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR HwBindingEn. File bup/bup_sku/hw_binding is read-only.
+WARNING  : Failed to write NVAR OemFwVersion. File mca/mca_oem_version is read-only.
+WARNING  : Failed to write NVAR icpsSwSkuing. File mca/icps is read-only.
+WARNING  : Failed to write NVAR FwAutoBist. File policy/Bist/auto_config is read-only.
+WARNING  : Failed to write NVAR IshPdtBinary. File ish_srv/INTC_pdt is read-only.
+INFO     : AutoNvars build completed successfully
+INFO     : Executing HmrfpoNvar build
+WARNING  : Failed to write NVAR HmrfpoEnable. File policy/hmrfpo_state is read-only.
+INFO     : HmrfpoNvar build completed successfully
+INFO     : Executing Icc build
+WARNING  : Failed to write NVAR IccProf0. File icc/prof0 is read-only.
+WARNING  : Failed to write NVAR IccProfilesNames. File icc/namestr is read-only.
+WARNING  : Failed to write NVAR IccHeader. File icc/header is read-only.
+WARNING  : Failed to write NVAR IccProfileSelect. File icc/profsel is read-only.
+INFO     : Icc build completed successfully
+INFO     : Executing ConfigRulesNvar build
+WARNING  : Failed to write NVAR PavpSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR IshSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MEDynAppLoad. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR FwUpdEnable. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR AmtSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR NetServicesSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MngAppSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MngAppPowerUpState. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR KvmSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR TlsCryptoSupport. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR PttSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR PttPwrUpState. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR IshPowerUpState. File policy/cfgmgr/cfg_rules is read-only.
+INFO     : ConfigRulesNvar build completed successfully
+INFO     : Executing PavpHdcpNvar build
+WARNING  : Failed to write NVAR Hdcp5kedisp1. File pavp/hdcp_ports is read-only.
+INFO     : PavpHdcpNvar build completed successfully
+INFO     : Executing ChipsetInit build
+WARNING  : Failed to write NVAR ChipInitBinary. File chipsetinit/mphytbl is read-only.
+INFO     : ChipsetInit build completed successfully
+INFO     : Executing EomNvar build
+WARNING  : Failed to write NVAR EomFirstBootEnabled. File mca/eom_config is read-only.
+WARNING  : Failed to write NVAR EomFirstBootEnabled. File mca/eom is read-only.
+WARNING  : Failed to write NVAR FlexibleEomSettings. File mca/eom_config is read-only.
+INFO     : EomNvar build completed successfully
+INFO     : Executing TbtConfigDataNvar build
+WARNING  : Failed to write NVAR TBTCfgData. File tcss/tbt_oem is read-only.
+INFO     : TbtConfigDataNvar build completed successfully
+INFO     : Executing CameraGpioNvar build
+WARNING  : Failed to write NVAR GpioCsmePins. File gpio/csme_pins is read-only.
+INFO     : CameraGpioNvar build completed successfully
+INFO     : Executing FITC build
+INFO     : FITC build completed successfully
+INFO     : Executing PSVN build
+INFO     : PSVN build completed successfully
+INFO     : Executing IMDP build
+INFO     : IMDP build completed successfully
+INFO     : Executing HVMP build
+INFO     : HVMP build completed successfully
+INFO     : Executing IVBP build
+INFO     : IVBP build completed successfully
+INFO     : Executing MFS build
+INFO     : MFS build completed successfully
+INFO     : Executing UTOK build
+INFO     : UTOK build completed successfully
+INFO     : Executing FLOG build
+INFO     : FLOG build completed successfully
+INFO     : Executing ELOG build
+INFO     : ELOG build completed successfully
+INFO     : Executing EFS build
+INFO     : EFS build completed successfully
+INFO     : Executing CDMD build
+INFO     : CDMD build completed successfully
+INFO     : Executing UEP build
+INFO     : UEP build completed successfully
+INFO     : Executing DATA_PARTITION build
+INFO     : add_sub_partition IMDP. offset: 0x400. length: 0x40
+INFO     : add_sub_partition HVMP. offset: 0x440. length: 0xC
+INFO     : add_sub_partition FITC. offset: 0x2000. length: 0x8000
+INFO     : add_sub_partition PSVN. offset: 0xA000. length: 0x200
+INFO     : add_sub_partition IVBP. offset: 0xB000. length: 0x4000
+INFO     : add_sub_partition MFS. offset: 0xF000. length: 0x40000
+INFO     : add_sub_partition UTOK. offset: 0x4F000. length: 0x2000
+INFO     : add_sub_partition FLOG. offset: 0x51000. length: 0x2000
+INFO     : add_sub_partition ELOG. offset: 0x53000. length: 0x1000
+INFO     : add_sub_partition EFS. offset: 0x54000. length: 0x10000
+INFO     : add_sub_partition CDMD. offset: 0x64000. length: 0x3000
+INFO     : add_sub_partition UEP. offset: 0x67000. length: 0x2000
+INFO     : DATA_PARTITION build completed successfully
+INFO     : Executing RBECopy build
+INFO     : RBECopy build completed successfully
+INFO     : Executing PMCCopy build
+INFO     : PMCCopy build completed successfully
+INFO     : Executing FTPR build
+INFO     : FTPR build completed successfully
+INFO     : Executing IDLMCopy build
+INFO     : IDLMCopy build completed successfully
+INFO     : Executing OEM_KM_Copy build
+INFO     : OEM_KM_Copy build completed successfully
+INFO     : Executing IOMCopy build
+INFO     : IOMCopy build completed successfully
+INFO     : Executing NPHYCopy build
+INFO     : NPHYCopy build completed successfully
+INFO     : Executing TBTCopy build
+INFO     : TBTCopy build completed successfully
+INFO     : Executing PCHCCopy build
+INFO     : PCHCCopy build completed successfully
+INFO     : Executing NFTP build
+INFO     : NFTP build completed successfully
+INFO     : Executing ISH build
+INFO     : ISH build completed successfully
+INFO     : Executing IUNIT build
+WARNING  : IUNP was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded IUNP binary: 0.8.01.7160
+INFO     : IUNIT build completed successfully
+INFO     : Executing StandAloneBPDT2 build
+INFO     : StandAloneBPDT2 build completed successfully
+INFO     : Executing CseRegion build
+INFO     : Adjusting CseRegion length to 0x4FF000. Note: Parent container might change the length (extend the buffer) in case the buffer will need rounding
+INFO     : CseRegion build completed successfully
+INFO     : Executing PdrRegion build
+INFO     : PdrRegion build completed successfully
+INFO     : Executing PaddingRegion build
+INFO     : PaddingRegion build completed successfully
+INFO     : Executing BiosRegion build
+INFO     : BiosRegion build completed successfully
+INFO     : Executing IfwiRoot build
+INFO     : IfwiRoot build completed successfully
+INFO     : Executing SigningContainer post build
+INFO     : SigningContainer post build completed successfully
+INFO     : Executing HarnessGlobalData post build
+INFO     : HarnessGlobalData post build completed successfully
+INFO     : Executing EcRegionPointer post build
+INFO     : EcRegionPointer post build completed successfully
+INFO     : Executing FLASH_VALID_SIGNATURE post build
+INFO     : FLASH_VALID_SIGNATURE post build completed successfully
+INFO     : Executing FLMAP0 post build
+INFO     : FLMAP0 post build completed successfully
+INFO     : Executing FLMAP1 post build
+INFO     : FLMAP1 post build completed successfully
+INFO     : Executing FLMAP2 post build
+INFO     : FLMAP2 post build completed successfully
+INFO     : Executing FLMAP3 post build
+INFO     : FLMAP3 post build completed successfully
+INFO     : Executing FLMAP4 post build
+INFO     : FLMAP4 post build completed successfully
+INFO     : Executing FDBAR post build
+INFO     : FDBAR post build completed successfully
+INFO     : Executing FLCOMP post build
+INFO     : FLCOMP post build completed successfully
+INFO     : Executing FLIL post build
+INFO     : FLIL post build completed successfully
+INFO     : Executing FCBA_RESERVED post build
+INFO     : FCBA_RESERVED post build completed successfully
+INFO     : Executing FCBA post build
+INFO     : FCBA post build completed successfully
+INFO     : Executing Regions post build
+INFO     : Regions post build completed successfully
+INFO     : Executing MasterAccessPermissions post build
+INFO     : MasterAccessPermissions post build completed successfully
+INFO     : Executing PchStraps post build
+INFO     : PchStraps post build completed successfully
+INFO     : Executing HashDescriptorManifestExt post build
+INFO     : HashDescriptorManifestExt post build completed successfully
+INFO     : Executing FdvManifest post build
+INFO     : FdvManifest post build completed successfully
+INFO     : Executing PmcStraps post build
+INFO     : PmcStraps post build completed successfully
+INFO     : Executing CpuStraps post build
+INFO     : CpuStraps post build completed successfully
+INFO     : Executing PmcAndCpu post build
+INFO     : PmcAndCpu post build completed successfully
+INFO     : Executing DbCStraps post build
+INFO     : DbCStraps post build completed successfully
+INFO     : Executing MipDesc post build
+INFO     : MipDesc post build completed successfully
+INFO     : Executing VsccTable post build
+INFO     : VsccTable post build completed successfully
+INFO     : Executing OEM post build
+INFO     : OEM post build completed successfully
+INFO     : Executing DescriptorRegion post build
+INFO     : DescriptorRegion post build completed successfully
+INFO     : Executing EcRegion post build
+INFO     : EcRegion post build completed successfully
+INFO     : Executing GbeRegion post build
+INFO     : GbeRegion post build completed successfully
+INFO     : Executing RomBypassVector post build
+INFO     : RomBypassVector post build completed successfully
+INFO     : Executing CSE_POINTERS post build
+INFO     : CSE_POINTERS post build completed successfully
+INFO     : Executing RomBypassVectorCopy post build
+INFO     : RomBypassVectorCopy post build completed successfully
+INFO     : Executing CSE_POINTERS_COPY post build
+INFO     : CSE_POINTERS_COPY post build completed successfully
+INFO     : Executing RomBypass post build
+INFO     : RomBypass post build completed successfully
+INFO     : Executing RBE post build
+INFO     : RBE post build completed successfully
+INFO     : Executing PMC post build
+INFO     : PMC post build completed successfully
+INFO     : Executing MFTP post build
+ERROR    : Failed to build container: CsePlugin:MFTP
+ERROR    : The public key in MFTP does not match the public key hash in the RoT Key Manifest.. 
+Source: 'CsePlugin:MFTP'
+INFO     : Build 'D:\LBEPro\REPO\DRV\FIT 16.1.25.2091\image.bin' start...
+INFO     : Executing SigningContainer build
+INFO     : SigningContainer build completed successfully
+INFO     : Executing HarnessGlobalData build
+INFO     : HarnessGlobalData build completed successfully
+INFO     : Executing EcRegionPointer build
+INFO     : EcRegionPointer build completed successfully
+INFO     : Executing FLASH_VALID_SIGNATURE build
+INFO     : FLASH_VALID_SIGNATURE build completed successfully
+INFO     : Executing FLMAP0 build
+INFO     : FLMAP0 build completed successfully
+INFO     : Executing FLMAP1 build
+INFO     : FLMAP1 build completed successfully
+INFO     : Executing FLMAP2 build
+INFO     : FLMAP2 build completed successfully
+INFO     : Executing FLMAP3 build
+INFO     : FLMAP3 build completed successfully
+INFO     : Executing FLMAP4 build
+INFO     : FLMAP4 build completed successfully
+INFO     : Executing FDBAR build
+INFO     : FDBAR build completed successfully
+INFO     : Executing FLCOMP build
+INFO     : FLCOMP build completed successfully
+INFO     : Executing FLIL build
+INFO     : FLIL build completed successfully
+INFO     : Executing FCBA_RESERVED build
+INFO     : FCBA_RESERVED build completed successfully
+INFO     : Executing FCBA build
+INFO     : FCBA build completed successfully
+INFO     : Executing Regions build
+INFO     : Regions build completed successfully
+INFO     : Executing MasterAccessPermissions build
+INFO     : MasterAccessPermissions build completed successfully
+INFO     : Executing PchStraps build
+INFO     : PchStraps build completed successfully
+INFO     : Executing HashDescriptorManifestExt build
+INFO     : HashDescriptorManifestExt build completed successfully
+INFO     : Executing FdvManifest build
+INFO     : FdvManifest build completed successfully
+INFO     : Executing PmcStraps build
+INFO     : PmcStraps build completed successfully
+INFO     : Executing CpuStraps build
+INFO     : CpuStraps build completed successfully
+INFO     : Executing PmcAndCpu build
+INFO     : PmcAndCpu build completed successfully
+INFO     : Executing DbCStraps build
+INFO     : DbCStraps build completed successfully
+INFO     : Executing MipDesc build
+INFO     : MipDesc build completed successfully
+INFO     : Executing VsccTable build
+INFO     : VsccTable build completed successfully
+INFO     : Executing OEM build
+INFO     : OEM build completed successfully
+INFO     : Executing DescriptorRegion build
+INFO     : DescriptorRegion build completed successfully
+INFO     : Executing EcRegion build
+INFO     : EcRegion build completed successfully
+INFO     : Executing GbeRegion build
+INFO     : GbeRegion build completed successfully
+INFO     : Executing RomBypassVector build
+INFO     : RomBypassVector build completed successfully
+INFO     : Executing CSE_POINTERS build
+INFO     : CSE_POINTERS build completed successfully
+INFO     : Executing RomBypassVectorCopy build
+INFO     : RomBypassVectorCopy build completed successfully
+INFO     : Executing CSE_POINTERS_COPY build
+INFO     : CSE_POINTERS_COPY build completed successfully
+INFO     : Executing RomBypass build
+INFO     : RomBypass build completed successfully
+INFO     : Executing RBE build
+INFO     : RBE build completed successfully
+INFO     : Executing PMC build
+WARNING  : PMCP was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded PMCP binary: 160.1.00.1023
+INFO     : PMC build completed successfully
+INFO     : Executing MFTP build
+INFO     : MFTP build completed successfully
+INFO     : Executing IDLM build
+INFO     : IDLM build completed successfully
+INFO     : Executing OEM_KM build
+WARNING  : OEMP was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded OEMP binary: 0.0.00.0
+INFO     : OEM_KM build completed successfully
+INFO     : Executing IOM build
+WARNING  : IOMP was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded IOMP binary: 34.12.00.0
+INFO     : IOM build completed successfully
+INFO     : Executing NPHY build
+WARNING  : NPHY was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded NPHY binary: 14.527.505.8209
+INFO     : NPHY build completed successfully
+INFO     : Executing TBT build
+INFO     : TBT build completed successfully
+INFO     : Executing PCHC build
+WARNING  : PCHC was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded PCHC binary: 16.0.00.1012
+INFO     : PCHC build completed successfully
+INFO     : Executing BPDT1 build
+INFO     : BPDT1 build completed successfully
+INFO     : Executing AutoNvars build
+WARNING  : Failed to write NVAR ProcEmulation. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR HideMEBxFwUpdCtrl. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MeClinkEnable. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MEWlanPowerWell. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MELanPowerWell. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR CryptoHwSupport. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR EnableTDS. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR OemTag. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR PSRSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MctpDevicePortEc. File mctp/device_ports is read-only.
+WARNING  : Failed to write NVAR MctpDevicePortSio. File mctp/device_ports is read-only.
+WARNING  : Failed to write NVAR MctpDevicePortIsh. File mctp/device_ports is read-only.
+WARNING  : Failed to write NVAR MctpDevicePortBmc. File mctp/device_ports is read-only.
+WARNING  : Failed to write NVAR DbgOverridePreProdSi. File bup/si_features is read-only.
+WARNING  : Failed to write NVAR DbgOverrideProdSi. File bup/si_features is read-only.
+WARNING  : Failed to write NVAR BiosRedAssistance. File secureboot/brm_cfg is read-only.
+WARNING  : Failed to write NVAR IntelTrcHubBinary. File bup/ct is read-only.
+WARNING  : Failed to write NVAR RomTraceFiltering. File hotham/filter_cfg is read-only.
+WARNING  : Failed to write NVAR TcssAuthenticateEn. File tcss/tcss_ctrl is read-only.
+WARNING  : Failed to write NVAR IomOemConfigDataFile. File tcss/iommg_oem is read-only.
+WARNING  : Failed to write NVAR PrivacyFeatureControlDisabled. File iunit/iunit_privacy_mode is read-only.
+WARNING  : Failed to write NVAR SecureTouch. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR FWSecureMode. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR SecureTouchCameraMask. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR RomTraceEnable. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR PortConfigurationFor8LSBLanes. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR PortConfigurationFor8MSBLanes. File iunit/iunit_oem_cfg is read-only.
+WARNING  : Failed to write NVAR HwBindingEn. File bup/bup_sku/hw_binding is read-only.
+WARNING  : Failed to write NVAR OemFwVersion. File mca/mca_oem_version is read-only.
+WARNING  : Failed to write NVAR icpsSwSkuing. File mca/icps is read-only.
+WARNING  : Failed to write NVAR FwAutoBist. File policy/Bist/auto_config is read-only.
+WARNING  : Failed to write NVAR IshPdtBinary. File ish_srv/INTC_pdt is read-only.
+INFO     : AutoNvars build completed successfully
+INFO     : Executing HmrfpoNvar build
+WARNING  : Failed to write NVAR HmrfpoEnable. File policy/hmrfpo_state is read-only.
+INFO     : HmrfpoNvar build completed successfully
+INFO     : Executing Icc build
+WARNING  : Failed to write NVAR IccProf0. File icc/prof0 is read-only.
+WARNING  : Failed to write NVAR IccProfilesNames. File icc/namestr is read-only.
+WARNING  : Failed to write NVAR IccHeader. File icc/header is read-only.
+WARNING  : Failed to write NVAR IccProfileSelect. File icc/profsel is read-only.
+INFO     : Icc build completed successfully
+INFO     : Executing ConfigRulesNvar build
+WARNING  : Failed to write NVAR PavpSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR IshSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MEDynAppLoad. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR FwUpdEnable. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR AmtSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR NetServicesSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MngAppSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR MngAppPowerUpState. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR KvmSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR TlsCryptoSupport. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR PttSupported. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR PttPwrUpState. File policy/cfgmgr/cfg_rules is read-only.
+WARNING  : Failed to write NVAR IshPowerUpState. File policy/cfgmgr/cfg_rules is read-only.
+INFO     : ConfigRulesNvar build completed successfully
+INFO     : Executing PavpHdcpNvar build
+WARNING  : Failed to write NVAR Hdcp5kedisp1. File pavp/hdcp_ports is read-only.
+INFO     : PavpHdcpNvar build completed successfully
+INFO     : Executing ChipsetInit build
+WARNING  : Failed to write NVAR ChipInitBinary. File chipsetinit/mphytbl is read-only.
+INFO     : ChipsetInit build completed successfully
+INFO     : Executing EomNvar build
+WARNING  : Failed to write NVAR EomFirstBootEnabled. File mca/eom_config is read-only.
+WARNING  : Failed to write NVAR EomFirstBootEnabled. File mca/eom is read-only.
+WARNING  : Failed to write NVAR FlexibleEomSettings. File mca/eom_config is read-only.
+INFO     : EomNvar build completed successfully
+INFO     : Executing TbtConfigDataNvar build
+WARNING  : Failed to write NVAR TBTCfgData. File tcss/tbt_oem is read-only.
+INFO     : TbtConfigDataNvar build completed successfully
+INFO     : Executing CameraGpioNvar build
+WARNING  : Failed to write NVAR GpioCsmePins. File gpio/csme_pins is read-only.
+INFO     : CameraGpioNvar build completed successfully
+INFO     : Executing FITC build
+INFO     : FITC build completed successfully
+INFO     : Executing PSVN build
+INFO     : PSVN build completed successfully
+INFO     : Executing IMDP build
+INFO     : IMDP build completed successfully
+INFO     : Executing HVMP build
+INFO     : HVMP build completed successfully
+INFO     : Executing IVBP build
+INFO     : IVBP build completed successfully
+INFO     : Executing MFS build
+INFO     : MFS build completed successfully
+INFO     : Executing UTOK build
+INFO     : UTOK build completed successfully
+INFO     : Executing FLOG build
+INFO     : FLOG build completed successfully
+INFO     : Executing ELOG build
+INFO     : ELOG build completed successfully
+INFO     : Executing EFS build
+INFO     : EFS build completed successfully
+INFO     : Executing CDMD build
+INFO     : CDMD build completed successfully
+INFO     : Executing UEP build
+INFO     : UEP build completed successfully
+INFO     : Executing DATA_PARTITION build
+INFO     : add_sub_partition IMDP. offset: 0x400. length: 0x40
+INFO     : add_sub_partition HVMP. offset: 0x440. length: 0xC
+INFO     : add_sub_partition FITC. offset: 0x2000. length: 0x8000
+INFO     : add_sub_partition PSVN. offset: 0xA000. length: 0x200
+INFO     : add_sub_partition IVBP. offset: 0xB000. length: 0x4000
+INFO     : add_sub_partition MFS. offset: 0xF000. length: 0x40000
+INFO     : add_sub_partition UTOK. offset: 0x4F000. length: 0x2000
+INFO     : add_sub_partition FLOG. offset: 0x51000. length: 0x2000
+INFO     : add_sub_partition ELOG. offset: 0x53000. length: 0x1000
+INFO     : add_sub_partition EFS. offset: 0x54000. length: 0x10000
+INFO     : add_sub_partition CDMD. offset: 0x64000. length: 0x3000
+INFO     : add_sub_partition UEP. offset: 0x67000. length: 0x2000
+INFO     : DATA_PARTITION build completed successfully
+INFO     : Executing RBECopy build
+INFO     : RBECopy build completed successfully
+INFO     : Executing PMCCopy build
+INFO     : PMCCopy build completed successfully
+INFO     : Executing FTPR build
+INFO     : FTPR build completed successfully
+INFO     : Executing IDLMCopy build
+INFO     : IDLMCopy build completed successfully
+INFO     : Executing OEM_KM_Copy build
+INFO     : OEM_KM_Copy build completed successfully
+INFO     : Executing IOMCopy build
+INFO     : IOMCopy build completed successfully
+INFO     : Executing NPHYCopy build
+INFO     : NPHYCopy build completed successfully
+INFO     : Executing TBTCopy build
+INFO     : TBTCopy build completed successfully
+INFO     : Executing PCHCCopy build
+INFO     : PCHCCopy build completed successfully
+INFO     : Executing NFTP build
+INFO     : NFTP build completed successfully
+INFO     : Executing ISH build
+INFO     : ISH build completed successfully
+INFO     : Executing IUNIT build
+WARNING  : IUNP was signed with a wrong MEU tool.
+Used MEU: 16.0
+Current layout version: 16.1
+Please re-sign it with MEU that match the current layout
+INFO     : Version number of the currently loaded IUNP binary: 0.8.01.7160
+INFO     : IUNIT build completed successfully
+INFO     : Executing StandAloneBPDT2 build
+INFO     : StandAloneBPDT2 build completed successfully
+INFO     : Executing CseRegion build
+INFO     : Adjusting CseRegion length to 0x4FF000. Note: Parent container might change the length (extend the buffer) in case the buffer will need rounding
+INFO     : CseRegion build completed successfully
+INFO     : Executing PdrRegion build
+INFO     : PdrRegion build completed successfully
+INFO     : Executing PaddingRegion build
+INFO     : PaddingRegion build completed successfully
+INFO     : Executing BiosRegion build
+INFO     : BiosRegion build completed successfully
+INFO     : Executing IfwiRoot build
+INFO     : IfwiRoot build completed successfully
+INFO     : Executing SigningContainer post build
+INFO     : SigningContainer post build completed successfully
+INFO     : Executing HarnessGlobalData post build
+INFO     : HarnessGlobalData post build completed successfully
+INFO     : Executing EcRegionPointer post build
+INFO     : EcRegionPointer post build completed successfully
+INFO     : Executing FLASH_VALID_SIGNATURE post build
+INFO     : FLASH_VALID_SIGNATURE post build completed successfully
+INFO     : Executing FLMAP0 post build
+INFO     : FLMAP0 post build completed successfully
+INFO     : Executing FLMAP1 post build
+INFO     : FLMAP1 post build completed successfully
+INFO     : Executing FLMAP2 post build
+INFO     : FLMAP2 post build completed successfully
+INFO     : Executing FLMAP3 post build
+INFO     : FLMAP3 post build completed successfully
+INFO     : Executing FLMAP4 post build
+INFO     : FLMAP4 post build completed successfully
+INFO     : Executing FDBAR post build
+INFO     : FDBAR post build completed successfully
+INFO     : Executing FLCOMP post build
+INFO     : FLCOMP post build completed successfully
+INFO     : Executing FLIL post build
+INFO     : FLIL post build completed successfully
+INFO     : Executing FCBA_RESERVED post build
+INFO     : FCBA_RESERVED post build completed successfully
+INFO     : Executing FCBA post build
+INFO     : FCBA post build completed successfully
+INFO     : Executing Regions post build
+INFO     : Regions post build completed successfully
+INFO     : Executing MasterAccessPermissions post build
+INFO     : MasterAccessPermissions post build completed successfully
+INFO     : Executing PchStraps post build
+INFO     : PchStraps post build completed successfully
+INFO     : Executing HashDescriptorManifestExt post build
+INFO     : HashDescriptorManifestExt post build completed successfully
+INFO     : Executing FdvManifest post build
+INFO     : FdvManifest post build completed successfully
+INFO     : Executing PmcStraps post build
+INFO     : PmcStraps post build completed successfully
+INFO     : Executing CpuStraps post build
+INFO     : CpuStraps post build completed successfully
+INFO     : Executing PmcAndCpu post build
+INFO     : PmcAndCpu post build completed successfully
+INFO     : Executing DbCStraps post build
+INFO     : DbCStraps post build completed successfully
+INFO     : Executing MipDesc post build
+INFO     : MipDesc post build completed successfully
+INFO     : Executing VsccTable post build
+INFO     : VsccTable post build completed successfully
+INFO     : Executing OEM post build
+INFO     : OEM post build completed successfully
+INFO     : Executing DescriptorRegion post build
+INFO     : DescriptorRegion post build completed successfully
+INFO     : Executing EcRegion post build
+INFO     : EcRegion post build completed successfully
+INFO     : Executing GbeRegion post build
+INFO     : GbeRegion post build completed successfully
+INFO     : Executing RomBypassVector post build
+INFO     : RomBypassVector post build completed successfully
+INFO     : Executing CSE_POINTERS post build
+INFO     : CSE_POINTERS post build completed successfully
+INFO     : Executing RomBypassVectorCopy post build
+INFO     : RomBypassVectorCopy post build completed successfully
+INFO     : Executing CSE_POINTERS_COPY post build
+INFO     : CSE_POINTERS_COPY post build completed successfully
+INFO     : Executing RomBypass post build
+INFO     : RomBypass post build completed successfully
+INFO     : Executing RBE post build
+INFO     : RBE post build completed successfully
+INFO     : Executing PMC post build
+INFO     : PMC post build completed successfully
+INFO     : Executing MFTP post build
+ERROR    : Failed to build container: CsePlugin:MFTP
+ERROR    : The public key in MFTP does not match the public key hash in the RoT Key Manifest.. 
+Source: 'CsePlugin:MFTP'

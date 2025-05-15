@@ -1,0 +1,52 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/14/2015  -  21:4:54 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Intel ME System Tools v9.1 r6\Flash Image Tool 9.1.10.1000"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Intel ME System Tools v9.1 r6\Flash Image Tool 9.1.10.1000"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Intel ME System Tools v9.1 r6\Flash Image Tool 9.1.10.1000"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Intel ME System Tools v9.1 r6\Flash Image Tool 9.1.10.1000\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:22:47 08/18/2014 GMT.
+Loading ICC Settings from XML
+Initializing Profile "WiMax" from "Standard"
+Initializing Profile "3G" from "Standard"
+Initializing Profile "Overclocking" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:54:54 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.1.10.1000"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.1.10.1000"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.1.10.1000"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.1.10.1000\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:22:47 08/18/2014 GMT.
+Loading ICC Settings from XML
+Initializing Profile "WiMax" from "Standard"
+Initializing Profile "3G" from "Standard"
+Initializing Profile "Overclocking" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+

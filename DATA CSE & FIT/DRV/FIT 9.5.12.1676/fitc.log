@@ -1,0 +1,848 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  11/17/2014  -  1:9:39 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "."
+	$WorkingDir 	= "."
+	$SourceDir 	= "."
+	$DestDir 	= "."
+	$UserVar1 	= "."
+	$UserVar2 	= "."
+	$UserVar3 	= "."
+
+Using vsccommn.bin with timestamp 18:47:14 06/03/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+USER ACTION: Open File.
+Loading file "D:\3\old5470_JW8C.bin".
+
+----------- Decomposing: 1:9:52 --- "D:\3\old5470_JW8C.bin" -----------
+
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Decomposing data...
+Descriptor Region
+Descriptor Map
+Component Section
+Region Map
+Master Access Section
+	CPU/BIOS
+	Manageability Engine (ME)
+	GbE LAN
+PCH Straps
+PCH Strap 0
+PCH Strap 1
+PCH Strap 2
+PCH Strap 3
+PCH Strap 4
+PCH Strap 5
+PCH Strap 6
+PCH Strap 7
+PCH Strap 8
+PCH Strap 9
+PCH Strap 10
+PCH Strap 11
+PCH Strap 12
+PCH Strap 13
+PCH Strap 14
+PCH Strap 15
+PCH Strap 16
+PCH Strap 17
+PCH Strap 18
+PCH Strap 19
+PCH Strap 20
+PROC Strap 0
+REGINIT Table
+OEM Section
+	Writing file ".\old5470_JW8C\Decomp\OEM Section.bin"...
+Upper Map
+VSCC Table
+	Vscc Device 1
+	Vscc Device 2
+	Vscc Device 3
+ME Region
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+USER ACTION: Changing Sku Type.
+amt.hwinv.asf.oem NVAR Not found.
+Usbr.factory.defaults NVAR Not found.
+PrivacyLevel NVAR Not found.
+amt.oem.secure.variables NVAR Not found.
+MctpPcieEnabled NVAR Not found.
+TdtFPOPNvar NVAR Not found.
+Extracting ICC NVAR Data
+Initializing Profile "UserProfile" from "Standard"
+BIOS Region
+Creating map file ".\old5470_JW8C\old5470_JW8C.map".
+-- done --
+
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+USER ACTION: Disabled Tree Item "ME Region"
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+USER ACTION: Open File.
+Loading file "D:\3\3.bin".
+
+----------- Decomposing: 1:17:39 --- "D:\3\3.bin" -----------
+
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Decomposing data...
+Descriptor Region
+Descriptor Map
+Component Section
+Region Map
+Master Access Section
+	CPU/BIOS
+	Manageability Engine (ME)
+	GbE LAN
+PCH Straps
+PCH Strap 0
+PCH Strap 1
+PCH Strap 2
+PCH Strap 3
+PCH Strap 4
+PCH Strap 5
+PCH Strap 6
+PCH Strap 7
+PCH Strap 8
+PCH Strap 9
+PCH Strap 10
+PCH Strap 11
+PCH Strap 12
+PCH Strap 13
+PCH Strap 14
+PCH Strap 15
+PCH Strap 16
+PCH Strap 17
+PCH Strap 18
+PCH Strap 19
+PCH Strap 20
+PROC Strap 0
+REGINIT Table
+OEM Section
+	Writing file ".\3\Decomp\OEM Section.bin"...
+Upper Map
+VSCC Table
+	Vscc Device 1
+	Vscc Device 2
+	Vscc Device 3
+ME Region
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+USER ACTION: Changing Sku Type.
+amt.hwinv.asf.oem NVAR Not found.
+Usbr.factory.defaults NVAR Not found.
+PrivacyLevel NVAR Not found.
+amt.oem.secure.variables NVAR Not found.
+MctpPcieEnabled NVAR Not found.
+TdtFPOPNvar NVAR Not found.
+Extracting ICC NVAR Data
+Initializing Profile "UserProfile" from "Standard"
+BIOS Region
+Creating map file ".\3\3.map".
+-- done --
+
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+HMRFPO_OEM_Enabled NVAR Not found.
+SUPER_SKU_FUSE_MAP NVAR Not found.
+Adding SkuModel NVAR.
+USER ACTION: Changing Sku Type.
+amt.hwinv.asf.oem NVAR Not found.
+Usbr.factory.defaults NVAR Not found.
+PrivacyLevel NVAR Not found.
+SysIntIdNvar0 NVAR Not found.
+SysIntIdNvar1 NVAR Not found.
+SysIntIdNvar2 NVAR Not found.
+SessmgrValidationMode NVAR Not found.
+amt.oem.secure.variables NVAR Not found.
+MctpPcieEnabled NVAR Not found.
+Adding SkbSmbusRetry0 NVAR.
+Adding SkbSmbusRetry1 NVAR.
+Adding SkbSmbusRetry2 NVAR.
+Adding NfcSlaveAddress NVAR.
+Adding NfcAlertGpio NVAR.
+AllowUnsignedAssertStolen NVAR Not found.
+TdtPrgtPolicy NVAR Not found.
+TdtFPOPNvar NVAR Not found.
+Extracting ICC NVAR Data
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+USER ACTION: Build Settings.
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+USER ACTION: Build Image.
+Building ROM image to save as "dL\outimage.bin".
+
+----------- Building: 1:18:22 --- "dL\outimage.bin" -----------
+
+
+Building full image...
+
+Building data...
+Descriptor Region
+Descriptor Map
+Component Section
+Region Map
+Master Access Section
+	CPU/BIOS
+	Manageability Engine (ME)
+	GbE LAN
+PCH Straps
+PCH Strap 0
+PCH Strap 1
+PCH Strap 2
+PCH Strap 3
+PCH Strap 4
+PCH Strap 5
+PCH Strap 6
+PCH Strap 7
+PCH Strap 8
+PCH Strap 9
+PCH Strap 10
+PCH Strap 11
+PCH Strap 12
+PCH Strap 13
+PCH Strap 14
+PCH Strap 15
+PCH Strap 16
+PCH Strap 17
+PCH Strap 18
+PCH Strap 19
+PCH Strap 20
+PROC Strap 0
+REGINIT Table
+VSCC Table
+	Vscc Device 1
+		VendorId = 0x1F, DeviceId0 = 0x47, DeviceId1 = 0x00, VsccValue = 0x20152015
+	Vscc Device 2
+		VendorId = 0xEF, DeviceId0 = 0x40, DeviceId1 = 0x17, VsccValue = 0x20252025
+	Vscc Device 3
+		VendorId = 0xC8, DeviceId0 = 0x40, DeviceId1 = 0x17, VsccValue = 0x20252025
+Upper Map
+OEM Section: ".\3\Decomp\OEM Section.bin"
+ME Region: "D:\3\ME.bin"
+BIOS Region: ".\3\Decomp\BIOS Region.bin"
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+Adding HMRFPO_OEM_Enabled NVAR.
+Adding KernFixedData NVAR.
+amt.hwinv.asf.oem NVAR Not found.
+Adding SkuModel NVAR.
+Adding NfcSlaveAddress NVAR.
+Adding NfcAlertGpio NVAR.
+Adding SysIntIdNvar0 NVAR.
+Adding SysIntIdNvar1 NVAR.
+Adding SysIntIdNvar2 NVAR.
+Adding MctpPcieEnabled NVAR.
+Adding SessmgrValidationMode NVAR.
+amt.oem.secure.variables NVAR Not found.
+Adding SkbSmbusRetry0 NVAR.
+Adding SkbSmbusRetry1 NVAR.
+Adding SkbSmbusRetry2 NVAR.
+Adding AllowUnsignedAssertStolen NVAR.
+Adding TdtPrgtPolicy NVAR.
+Adding TdtFPOPNvar NVAR.
+Saving ICC NVAR Data
+
+Writing ROM image file "dL\outimage.bin".
+Writing MAP file "dL\outimage.map".
+
+Image size = 0x800000 bytes
+
+-- done --
+
+Build thread exit code = 0.
+USER ACTION: Build Settings.
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+USER ACTION: Build Image.
+Building ROM image to save as "d:\outimage.bin".
+
+----------- Building: 1:19:21 --- "d:\outimage.bin" -----------
+
+
+Building full image...
+
+Building data...
+Descriptor Region
+Descriptor Map
+Component Section
+Region Map
+Master Access Section
+	CPU/BIOS
+	Manageability Engine (ME)
+	GbE LAN
+PCH Straps
+PCH Strap 0
+PCH Strap 1
+PCH Strap 2
+PCH Strap 3
+PCH Strap 4
+PCH Strap 5
+PCH Strap 6
+PCH Strap 7
+PCH Strap 8
+PCH Strap 9
+PCH Strap 10
+PCH Strap 11
+PCH Strap 12
+PCH Strap 13
+PCH Strap 14
+PCH Strap 15
+PCH Strap 16
+PCH Strap 17
+PCH Strap 18
+PCH Strap 19
+PCH Strap 20
+PROC Strap 0
+REGINIT Table
+VSCC Table
+	Vscc Device 1
+		VendorId = 0x1F, DeviceId0 = 0x47, DeviceId1 = 0x00, VsccValue = 0x20152015
+	Vscc Device 2
+		VendorId = 0xEF, DeviceId0 = 0x40, DeviceId1 = 0x17, VsccValue = 0x20252025
+	Vscc Device 3
+		VendorId = 0xC8, DeviceId0 = 0x40, DeviceId1 = 0x17, VsccValue = 0x20252025
+Upper Map
+OEM Section: ".\3\Decomp\OEM Section.bin"
+ME Region: "D:\3\ME.bin"
+BIOS Region: ".\3\Decomp\BIOS Region.bin"
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+Adding HMRFPO_OEM_Enabled NVAR.
+Adding KernFixedData NVAR.
+amt.hwinv.asf.oem NVAR Not found.
+Adding SkuModel NVAR.
+Adding NfcSlaveAddress NVAR.
+Adding NfcAlertGpio NVAR.
+Adding SysIntIdNvar0 NVAR.
+Adding SysIntIdNvar1 NVAR.
+Adding SysIntIdNvar2 NVAR.
+Adding MctpPcieEnabled NVAR.
+Adding SessmgrValidationMode NVAR.
+amt.oem.secure.variables NVAR Not found.
+Adding SkbSmbusRetry0 NVAR.
+Adding SkbSmbusRetry1 NVAR.
+Adding SkbSmbusRetry2 NVAR.
+Adding AllowUnsignedAssertStolen NVAR.
+Adding TdtPrgtPolicy NVAR.
+Adding TdtFPOPNvar NVAR.
+Saving ICC NVAR Data
+
+Writing ROM image file "d:\outimage.bin".
+Writing MAP file "d:\outimage.map".
+
+Image size = 0x800000 bytes
+
+-- done --
+
+Build thread exit code = 0.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  4/30/2015  -  15:11:39 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "."
+	$WorkingDir 	= "."
+	$SourceDir 	= "."
+	$DestDir 	= "."
+	$UserVar1 	= "."
+	$UserVar2 	= "."
+	$UserVar3 	= "."
+
+Using vsccommn.bin with timestamp 18:47:14 06/03/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  4/30/2015  -  15:12:04 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "."
+	$WorkingDir 	= "."
+	$SourceDir 	= "."
+	$DestDir 	= "."
+	$UserVar1 	= "."
+	$UserVar2 	= "."
+	$UserVar3 	= "."
+
+Using vsccommn.bin with timestamp 18:47:14 06/03/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+USER ACTION: File Dropped on UI.
+Loading file "D:\acer_aspire_v3-772g-747a8g1tmakk\main.bin".
+
+----------- Decomposing: 15:12:13 --- "D:\acer_aspire_v3-772g-747a8g1tmakk\main.bin" -----------
+
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Decomposing data...
+Descriptor Region
+Descriptor Map
+Component Section
+Region Map
+Master Access Section
+	CPU/BIOS
+	Manageability Engine (ME)
+	GbE LAN
+PCH Straps
+PCH Strap 0
+PCH Strap 1
+PCH Strap 2
+PCH Strap 3
+PCH Strap 4
+PCH Strap 5
+PCH Strap 6
+PCH Strap 7
+PCH Strap 8
+PCH Strap 9
+PCH Strap 10
+PCH Strap 11
+PCH Strap 12
+PCH Strap 13
+PCH Strap 14
+PCH Strap 15
+PCH Strap 16
+PCH Strap 17
+PCH Strap 18
+PCH Strap 19
+PCH Strap 20
+PROC Strap 0
+REGINIT Table
+OEM Section
+	Writing file ".\main\Decomp\OEM Section.bin"...
+Upper Map
+VSCC Table
+	Vscc Device 1
+	Vscc Device 2
+	Vscc Device 3
+	Vscc Device 4
+	Vscc Device 5
+ME Region
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+ERROR: Error loading firmware version 9.0.3.1347.  This firmware does not support Lynxpoint-LP platform.
+
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  5/21/2015  -  11:23:13 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "."
+	$WorkingDir 	= "."
+	$SourceDir 	= "."
+	$DestDir 	= "."
+	$UserVar1 	= "."
+	$UserVar2 	= "."
+	$UserVar3 	= "."
+
+Using vsccommn.bin with timestamp 18:47:14 06/03/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+USER ACTION: File Dropped on UI.
+Loading file "C:\acer_aspire_e1-532_217\V5WE2217_main_clear_me.bin".
+
+----------- Decomposing: 11:23:19 --- "C:\acer_aspire_e1-532_217\V5WE2217_main_clear_me.bin" -----------
+
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Decomposing data...
+Descriptor Region
+Descriptor Map
+Component Section
+Region Map
+Master Access Section
+	CPU/BIOS
+	Manageability Engine (ME)
+	GbE LAN
+PCH Straps
+PCH Strap 0
+PCH Strap 1
+PCH Strap 2
+PCH Strap 3
+PCH Strap 4
+PCH Strap 5
+PCH Strap 6
+PCH Strap 7
+PCH Strap 8
+PCH Strap 9
+PCH Strap 10
+PCH Strap 11
+PCH Strap 12
+PCH Strap 13
+PCH Strap 14
+PCH Strap 15
+PCH Strap 16
+PCH Strap 17
+PCH Strap 18
+PCH Strap 19
+PCH Strap 20
+PROC Strap 0
+REGINIT Table
+OEM Section
+	Writing file ".\V5WE2217_main_clear_me\Decomp\OEM Section.bin"...
+Upper Map
+VSCC Table
+	Vscc Device 1
+	Vscc Device 2
+	Vscc Device 3
+	Vscc Device 4
+	Vscc Device 5
+	Vscc Device 6
+	Vscc Device 7
+	Vscc Device 8
+	Vscc Device 9
+	Vscc Device 10
+ME Region
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+SUPER_SKU_FUSE_MAP NVAR Not found.
+USER ACTION: Changing Sku Type.
+amt.hwinv.asf.oem NVAR Not found.
+Usbr.factory.defaults NVAR Not found.
+PrivacyLevel NVAR Not found.
+amt.oem.secure.variables NVAR Not found.
+Extracting ICC NVAR Data
+Initializing Profile "UserProfile" from "Standard"
+BIOS Region
+Creating map file ".\V5WE2217_main_clear_me\V5WE2217_main_clear_me.map".
+-- done --
+
+Configuration
+
+KR partition found    = 1
+TD partition found   = 1
+OS partition found   = 0
+CL partition found   = 1
+CM partition found   = 0
+SH partition found   = 1
+SP partition found   = 0
+QS partition found   = 0
+PL partition found   = 0
+The configuration parameters related to missing partition(s) will not be updated!
+amt.oem.secure.variables NVAR Not found.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/14/2015  -  20:59:38 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9_5_Haswell PCH-LP"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9_5_Haswell PCH-LP"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9_5_Haswell PCH-LP"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9_5_Haswell PCH-LP\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 18:47:14 06/03/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:55:07 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.12.1676"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.12.1676"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.12.1676"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.12.1676\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 18:47:14 06/03/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  1:15:19 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.12.1676"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.12.1676"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.12.1676"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.12.1676\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 18:47:14 06/03/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+

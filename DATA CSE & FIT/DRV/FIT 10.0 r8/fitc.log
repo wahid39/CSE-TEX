@@ -1,0 +1,25 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  3/1/2024  -  19:14:00 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "D:\LBEPro\REPO\DRV\FIT v10.0 r8"
+	$WorkingDir 	= "D:\LBEPro\REPO\DRV\FIT v10.0 r8"
+	$SourceDir 	= "D:\LBEPro\REPO\DRV\FIT v10.0 r8"
+	$DestDir 	= "D:\LBEPro\REPO\DRV\FIT v10.0 r8\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:22:47 08/18/2014 GMT.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+

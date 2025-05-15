@@ -1,0 +1,42 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  5/27/2018  -  13:56:14 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\vmware-host\Shared Folders\Downloads\Flash Image Tool 7.1.13.1088 7.1.60.1191\v7.1.13.1088"
+	$WorkingDir 	= "\\vmware-host\Shared Folders\Downloads\Flash Image Tool 7.1.13.1088 7.1.60.1191\v7.1.13.1088"
+	$SourceDir 	= "\\vmware-host\Shared Folders\Downloads\Flash Image Tool 7.1.13.1088 7.1.60.1191\v7.1.13.1088"
+	$DestDir 	= "\\vmware-host\Shared Folders\Downloads\Flash Image Tool 7.1.13.1088 7.1.60.1191\v7.1.13.1088\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 02:10:39 09/22/2010 GMT.
+Loaded default configuration.
+Program terminated.
+-------------------
+
+
+-------------------------------------------------------
+ Flash Image Tool  -  5/27/2018  -  23:42:59 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\vmware-host\Shared Folders\Downloads\Flash Image Tool v7x4\v7.1.13.1088"
+	$WorkingDir 	= "\\vmware-host\Shared Folders\Downloads\Flash Image Tool v7x4\v7.1.13.1088"
+	$SourceDir 	= "\\vmware-host\Shared Folders\Downloads\Flash Image Tool v7x4\v7.1.13.1088"
+	$DestDir 	= "\\vmware-host\Shared Folders\Downloads\Flash Image Tool v7x4\v7.1.13.1088\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 02:10:39 09/22/2010 GMT.
+Loaded default configuration.
+Program terminated.
+-------------------
+

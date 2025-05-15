@@ -1,0 +1,60 @@
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.0.10.1002
+Copyright (c) 2013 - 2016, Intel Corporation. All rights reserved.
+1/05/2023 - 4:57:44 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 22:21:01 02/26/2015 GMT
+
+Command Line: E:\Programming\MY Critical Project\Intel-ME-region-injector-master\Intel-ME-region-injector-master\MEInject\MEInject\bin\Debug\MME\FIT 11.0.10.1002\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.0.10.1002
+Copyright (c) 2013 - 2016, Intel Corporation. All rights reserved.
+6/08/2024 - 6:09:40 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 22:21:01 02/26/2015 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.0.10.1002\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.0.10.1002
+Copyright (c) 2013 - 2016, Intel Corporation. All rights reserved.
+6/08/2024 - 6:13:09 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 22:21:01 02/26/2015 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.0.10.1002\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\SKCLAPPY.IN\Desktop\LBE PRO\New folder (2)\New folder (2)\New folder\CF25Q128AS@SOIC8 T460 BK.BIN
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - LP No Emulation".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Warning: Could not set "Redirection Privacy / Security Level" to: 0x0000000000000000000000000000000000000098F2D9FF32B1E9F4E1D3D0F711CF827E263C30BCE37426EC8A095A6890F6B68C8E01, reverting to previous/default value: Default
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.0.10.1002\CF25Q128AS@SOIC8 T460 BK\CF25Q128AS@SOIC8 T460 BK.map
+Saving XML ...
+
+XML file written to D:\LBEPro\REPO\DRV\FIT 11.0.10.1002\Untitled.xml
+Loading D:\LBEPro\REPO\DRV\FIT 11.0.10.1002\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.0.10.1002\Untitled.xml
+Integrated Clock Controller Settings not supported by provided ME image.
+Executing pre-build actions
+Error 52: [FitActions] IDLM Binary is invalid or corrupt Unable to insert IDLM binary.
+Error 5: [CsmeBinaryGen] Error executing pre-build actions. 
+Error 15: Failed to build. 
+Failed to build!

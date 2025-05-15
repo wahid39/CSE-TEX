@@ -1,0 +1,48 @@
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 14.5.25.1229
+Copyright (c) 2013 - 2020, Intel Corporation. All rights reserved.
+11/10/2022 - 7:27:39 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 19:06:41 03/20/2020 GMT
+
+Command Line: C:\Users\RANA ABBAS ALI\Desktop\Flash Image Tool\toll me region\(CS)ME System Tools\(CS)ME System Tools\CSME System Tools v14.5 r7\CSME System Tools v14.5 r7\Flash Image Tool\WIN32\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\RANA ABBAS ALI\Desktop\Dell 5410 8fc8\5410-8fc8-lock_8FC8_Cleared.BIN
+
+Error 9: Failed to decompose Image. 
+Error 42: Failed to open with processed commands. 
+Unable to open file: C:\Users\RANA ABBAS ALI\Desktop\Dell 5410 8fc8\5410-8fc8-lock_8FC8_Cleared.BIN. Reverting to default configuration.
+Loading defaults.
+Saving XML ...
+
+XML file written to C:\Users\RANA ABBAS ALI\Desktop\Flash Image Tool\toll me region\(CS)ME System Tools\(CS)ME System Tools\CSME System Tools v14.5 r7\CSME System Tools v14.5 r7\Flash Image Tool\WIN32\Untitled.xml
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 14.5.25.1229
+Copyright (c) 2013 - 2020, Intel Corporation. All rights reserved.
+11/12/2022 - 7:52:20 
+===============================================================================
+
+Using vsccommn.bin with timestamp 19:06:41 03/20/2020 GMT
+
+Command Line: F:\LBE Versions\LBE++.3.0.0.0\LBE++\MME\WIN32\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 14.5.25.1229
+Copyright (c) 2013 - 2020, Intel Corporation. All rights reserved.
+11/12/2022 - 8:38:39 
+===============================================================================
+
+Using vsccommn.bin with timestamp 19:06:41 03/20/2020 GMT
+
+Command Line: F:\LBE Versions\LBE++.3.0.0.0\LBE++\MME\FITool 14.5.25.1229\fit.exe 
+
+Log file written to fit.log
+

@@ -1,0 +1,59 @@
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.7.0.1292
+Copyright (c) 2013 - 2017, Intel Corporation. All rights reserved.
+11/13/2017 - 12:02:48 am
+===============================================================================
+
+Using vsccommn.bin with timestamp 14:59:52 05/09/2017 GMT
+
+Command Line: \\vmware-host\Shared Folders\Downloads\Intel CSME System Tools v11 r2\Flash Image Tool\WIN\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.7.0.1292
+Copyright (c) 2013 - 2017, Intel Corporation. All rights reserved.
+11/13/2017 - 12:04:47 am
+===============================================================================
+
+Using vsccommn.bin with timestamp 14:59:52 05/09/2017 GMT
+
+Command Line: \\vmware-host\Shared Folders\Downloads\Flash Image Tool 11.7.0.1292\fit.exe 
+
+Log file written to fit.log
+
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.7.0.1292
+Copyright (c) 2013 - 2017, Intel Corporation. All rights reserved.
+11/13/2017 - 12:08:32 am
+===============================================================================
+
+Unable to locate vsccommn.bin at //vmware-host/Shared Folders/Downloads/Flash Image Tool 11.7.0.1292/vsccommn.bin
+Error 41: Failed to populate known good VSCC database in memory! 
+Error 5010: General error. 
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.7.0.1292
+Copyright (c) 2013 - 2017, Intel Corporation. All rights reserved.
+11/13/2017 - 12:08:37 am
+===============================================================================
+
+Unable to locate vsccommn.bin at //vmware-host/Shared Folders/Downloads/Flash Image Tool 11.7.0.1292/vsccommn.bin
+Error 41: Failed to populate known good VSCC database in memory! 
+Error 5010: General error. 
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.7.0.1292
+Copyright (c) 2013 - 2017, Intel Corporation. All rights reserved.
+11/13/2017 - 12:08:49 am
+===============================================================================
+
+Using vsccommn.bin with timestamp 14:59:52 05/09/2017 GMT
+
+Command Line: \\vmware-host\Shared Folders\Downloads\Flash Image Tool 11.7.0.1292\fit.exe 
+
+Log file written to fit.log
+

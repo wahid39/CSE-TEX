@@ -1,0 +1,26 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  10/15/2015  -  0:56:03 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.15.1730"
+	$WorkingDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.15.1730"
+	$SourceDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.15.1730"
+	$DestDir 	= "\\192.168.1.42\data\HW\BIOS Tools\Flash Image Tool\V9 Series\Flash Image Tool 9.5.15.1730\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 17:50:05 06/28/2013 GMT.
+USER ACTION: Changing Sku Type.
+USER ACTION: Changing Sku Type.
+Loading ICC Settings from XML
+Initializing Profile "WiMax3G" from "Standard"
+Initializing Profile "UserProfile" from "Standard"
+Loaded default configuration.
+Program terminated.
+-------------------
+

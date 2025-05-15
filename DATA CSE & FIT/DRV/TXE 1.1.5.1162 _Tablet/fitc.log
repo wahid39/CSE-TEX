@@ -1,0 +1,22 @@
+
+-------------------------------------------------------
+ Flash Image Tool  -  11/29/2023  -  20:49:03 
+-------------------------------------------------------
+
+
+Command line: ""
+Environment variables:
+	$CurWorkDir 	= "D:\Programming Projects\MEInject\MEInject\bin\Debug\REPO\DRV\TXE System Tools v1 r4 _Tablet"
+	$WorkingDir 	= "D:\Programming Projects\MEInject\MEInject\bin\Debug\REPO\DRV\TXE System Tools v1 r4 _Tablet"
+	$SourceDir 	= "D:\Programming Projects\MEInject\MEInject\bin\Debug\REPO\DRV\TXE System Tools v1 r4 _Tablet"
+	$DestDir 	= "D:\Programming Projects\MEInject\MEInject\bin\Debug\REPO\DRV\TXE System Tools v1 r4 _Tablet\Build"
+	$UserVar1 	= ".\"
+	$UserVar2 	= ".\"
+	$UserVar3 	= ".\"
+
+Using vsccommn.bin with timestamp 16:21:08 05/05/2014 GMT.
+"CEK Configuration" is missing from the XML. The default value has been loaded.
+Loaded default configuration.
+Program terminated.
+-------------------
+

@@ -1,0 +1,60 @@
+
+===============================================================================
+Intel (R) Flash Image Tool. Version: 11.8.55.3510
+Copyright (c) 2013 - 2018, Intel Corporation. All rights reserved.
+4/17/2024 - 3:07:15 pm
+===============================================================================
+
+Using vsccommn.bin with timestamp 20:58:37 05/01/2018 GMT
+
+Command Line: D:\LBEPro\REPO\DRV\FIT 11.8.55.3510\fit.exe 
+
+Log file written to fit.log
+
+Loading C:\Users\SKCLAPPY.IN\Desktop\LBE PRO\New folder (2)\VBW01 LA-9982P Rev.3.0(A02)2013-05-23 MAC 74867A4C129D.BIN SKCLAPPY.IN (1)\W25Q256FV@WSON8 8X6_20240417_150227_Repaired.Bin
+
+Decomposed SKU Value: "Intel (R) LP Series Chipset - Premium U - KBL SR'17 (and KBL-R)".
+
+Decomposed PCH Strap Length: 0x42
+
+Warning: Could not set "Embedded Controller Write Access" to: 0x0000010B, reverting to previous/default value: 0xFFF
+Warning: Could not set "Embedded Controller Read Access" to: 0x0000010B, reverting to previous/default value: 0xFFF
+Warning: The ME FW image loaded has been pulled from a previously booted system. Some FW settings will not be allowed to be changed.
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.55.3510\W25Q256FV@WSON8 8X6_20240417_150227_Repaired\W25Q256FV@WSON8 8X6_20240417_150227_Repaired.map
+Saving XML ...
+
+XML file written to D:\LBEPro\REPO\DRV\FIT 11.8.55.3510\Untitled.xml
+Loading D:\LBEPro\REPO\DRV\FIT 11.8.55.3510\Untitled.xml
+
+Loading XML file: D:\LBEPro\REPO\DRV\FIT 11.8.55.3510\Untitled.xml
+Executing pre-build actions
+ICC Record Profile Index: 0 - Name: Profile 0 - Type: Standard - data (64 bytes) 
+10 27 de 26 08 32 cf 00 10 27 10 27 00 00 00 00 
+30 00 01 00 05 00 00 00 11 21 01 ed 03 00 03 00 
+4e 40 01 ed 00 00 00 00 06 21 01 ed 00 00 00 00 
+2e 10 01 dc 00 00 00 00 86 61 01 ed 00 00 3f 00 
+
+
+Building objects
+Processing attribute: BuildSettings
+Processing attribute: FlashLayout
+Committing CSE configuration.
+Building image with Chipset Initialization version: 130.52
+Processing attribute: FlashSettings
+Processing attribute: IntelMeKernel
+Processing attribute: IntelAmt
+Processing attribute: PlatformProtection
+Processing attribute: IntegratedTouch
+Processing attribute: Icc
+Processing attribute: NetworkingConnectivity
+Processing attribute: FlexIo
+Processing attribute: InternalPchBuses
+Processing attribute: Gpio
+Processing attribute: Power
+Processing attribute: IntegratedSensorHub
+Processing attribute: Debug
+Processing attribute: CpuStraps
+Executing post-build actions
+
+Full Flash image written to D:\LBEPro\REPO\DRV\FIT 11.8.55.3510\outimage.bin
+Writing map file D:\LBEPro\REPO\DRV\FIT 11.8.55.3510\outimage.map
